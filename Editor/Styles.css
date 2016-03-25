@@ -1,0 +1,85 @@
+     
+a:link{font-family: Verdana;font-size: 10px; color:black;font-weight:bold;}
+a:visited{font-family: Verdana;font-size: 10px; color:black;font-weight:bold;}
+a:active{font-family: Verdana;font-size: 10px; color:black;font-weight:bold;}
+a:hover{font-family: Verdana;font-size: 10px; color:#999999;font-weight:bold;}
+
+.blackbold {font-family: Verdana;font-size: 10px; color:black;font-weight:bold;}
+a:link.blackbold{font-family: Verdana;font-size: 10px; color:black;font-weight:bold;}
+a:visited.blackbold{font-family: Verdana;font-size: 10px; color:black;font-weight:bold;}
+a:active.blackbold{font-family: Verdana;font-size: 10px; color:black;font-weight:bold;}
+a:hover.blackbold{font-family: Verdana;font-size: 10px; color:black;font-weight:bold;}
+
+.pagetitle{font-family: Verdana;font-size: 17px; font-weight:bold; color:#6B6B6B;text-decoration:none}
+.sublinktitle{font-family: Verdana;font-size: 10px; font-weight:bold; color:#6B6B6B;text-decoration:none}
+
+.whitesm{font-family: Verdana;font-size: 10px; color:#FFFFFF;text-decoration:none}
+a:link.whitesm{font-family: Verdana;font-size: 10px; color:#FFFFFF;text-decoration:none}
+a:visited.whitesm{font-family: Verdana;font-size: 10px; color:#FFFFFF;text-decoration:none}
+a:active.whitesm{font-family: Verdana;font-size: 10px; color:#FEFF7C;text-decoration:none}
+a:hover.whitesm{font-family: Verdana;font-size: 10px; color:#FEFF7C;text-decoration:underline}
+
+.whitemed{font-family: Verdana;font-size: 10px; color:#FFFFFF;text-decoration:none}
+a:link.whitemed{font-family: Verdana;font-size: 10px; color:#FFFFFF;text-decoration:none}
+a:visited.whitemed{font-family: Verdana;font-size: 10px; color:#FFFFFF;text-decoration:none}
+a:active.whitemed{font-family: Verdana;font-size: 10px; color:#FEFF7C;text-decoration:none}
+a:hover.whitemed{font-family: Verdana;font-size: 10px; color:#FEFF7C;text-decoration:underline}
+
+.whiteheader{font-family: Verdana;font-size: 11px; font-weight: bold; color:#FFFFFF;text-decoration:none}
+a:link.whiteheader{font-family: Verdana;font-size: 11px; color:#FFFFFF;text-decoration:none}
+a:visited.whiteheader{font-family: Verdana;font-size: 11px; color:#FFFFFF;text-decoration:none}
+a:active.whiteheader{font-family: Verdana;font-size: 11px; color:#FEFF7C;text-decoration:none}
+a:hover.whiteheader{font-family: Verdana;font-size: 11px; color:#FEFF7C;text-decoration:underline}
+
+.duedate{font-family: Verdana;font-size: 10px; font-weight: bold; color:#C30000;text-decoration:none}
+.whiteheadersm{font-family: Verdana;font-size: 10px; font-weight: bold; color:#FFFFFF;text-decoration:none}
+.lgtheadersm{font-family: Verdana;font-size: 10px; font-weight: bold; color:#5E7787;text-decoration:none}
+.blackheader{font-family: Verdana;font-size: 11px; font-weight: bold; color:#000000;text-decoration:none}
+
+.maintext{font-family: Verdana;font-size: 10px; color:#000000;text-decoration:none}
+a:link.maintext{font-family: Verdana;font-size: 10px; color:#000000;text-decoration:none}
+a:visited.maintext{font-family: Verdana;font-size: 10px; color:#000000;text-decoration:none}
+a:active.maintext{font-family: Verdana;font-size: 10px; color:#000000;text-decoration:none}
+a:hover.maintext{font-family: Verdana;font-size: 10px; color:#000000;text-decoration:underline}
+
+.DIM {font-family: Verdana, Helvetica, Arial, Sans-Serif; font-size :8pt; color :#666666;text-decoration: none;}
+.GEN {font-family: Verdana, Helvetica, Arial, Sans-Serif; font-size :8pt; color :#000000;text-decoration: none;}
+.BOLD {font-family: Verdana, Helvetica, Arial, Sans-Serif; font-size :8pt; font-weight :bold; color :#000000;text-decoration: none;}
+.WHITE{font-family: Verdana, Helvetica, Arial, Sans-Serif; font-size :8pt;color :#FFFFFF;text-decoration: none;}
+.REDBOLD {font-family: Verdana, Helvetica, Arial, Sans-Serif; font-size :8pt;color :#FF0000;font-weight:bold; text-decoration: none;}
+.WHITEBOLD {font-family: Verdana, Helvetica, Arial, Sans-Serif; font-size :8pt; font-weight :bold; color :#FFFFFF;text-decoration: none;}
+.RED {font-family: Verdana, Helvetica, Arial, Sans-Serif; font-size :8pt; font-weight :bold; color :#FF0000;text-decoration: none;}
+.BLUELINK {font-family:Verdana,Helvetica,Arial,Sans-Serif; font-size:8pt;color:#0000FF;text-decoration:underline;}
+
+.DEFAULTFONT {font-family: Verdana, Helvetica, Arial, Sans-Serif; font-size :10pt; color :#000000;text-decoration: none;}
+.DEFAULTFONT1 {font-family: Verdana, Helvetica, Arial, Sans-Serif; font-size :8pt; color :#000000;text-decoration: none;}
+.DEFAULTFONT3 {font-family: Verdana, Helvetica, Arial, Sans-Serif; font-size :12pt; color :#000000;text-decoration: none;}
+
+.TABLEHEADER{font-family: Verdana, Helvetica, Arial, Sans-Serif; font-size :10pt; font-weight :bold; color :#000000;text-decoration: none;}
+
+
+.lista {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	color: #666666;
+        }
+
+.body {
+            	margin-top: 5px;
+            }
+            .Estilo1 {
+            	font-family: Verdana, Arial, Helvetica, sans-serif;
+            	font-size: 10px;
+            	color: #666666;
+            }
+            .Estilo2 {
+            	font-family: Verdana, Arial, Helvetica, sans-serif;
+            	font-size: 10px;
+            	color: #000000;
+            }
+            .Estilo3 {
+            	font-family: Arial, Helvetica, sans-serif;
+            	font-weight: bold;
+            	font-size: 11px;
+            }

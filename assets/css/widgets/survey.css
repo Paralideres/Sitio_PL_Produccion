@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* ParaLideres.org v. 4.0.0 
+   survey.css
+   style
+*/
+
+.sv_box{
+	font-size:14px;
+	text-align:center;
+}
+.sv_box ul{
+	text-align: left;
+	list-style:none;
+	line-height:1.5;
+	display:block;
+	padding-left:10px;
+	padding-right:10px;
+}
+.sv_box p{
+	padding:10px;
+}
+
+.sv_box form input.sv_votar{
+	padding:3px;
+	color:#FFFFFF;
+	display:block;
+}

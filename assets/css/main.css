@@ -1,0 +1,357 @@
+@charset "utf-8";
+/* ParaLideres.org v. 4.0.0 
+   main_style.css
+*/
+/*html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers /
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+	background: url(../imgs/gral/bkg_gral.jpg) repeat-x #f0f0f0;
+	font: 14px "trebuchet MS", tahoma, verdana, sans-serif ;
+	color:#333333;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+a {
+	text-decoration:none;
+	color: inherit;
+	color:#0178A3;
+}
+a:hover {
+	text-decoration:underline;
+}
+h1,h2	{ 
+	font-size:16px;
+}
+h3,h4{ 
+	font-size:14px;
+}
+img {
+	border:none;
+	background:none;
+}
+input[type="text"], 
+input[type="password"] { 
+	border:1px solid #ccc; 
+	padding:5px;
+}
+input[type="submit"], 
+input[type="button"] { 
+	border:none;
+}
+
+/* --- Clearfix Content --- /
+  .clearfix:after { content:"."; display:block; height:0; clear:both; visibility:hidden;}
+  .clearfix { display: inline-table;}
+  /* Hides from IE-mac \/
+  * html .clearfix { height:1%;}
+  *+html .clearfix { height:1%;}
+  .clearfix {	display:block;}/* End hide from IE-mac */
+/* --- ENDS Clearfix Content --- /	
+	  
+/* ---  Floats  --- /
+.right{	position:relative; float:right;}
+.left {	position:relative; float:left;}
+.transparent_class{ filter:alpha(opacity=50); -moz-opacity:0.5;	-khtml-opacity: 0.5; opacity: 0.5;}
+
+/* --- Botones --- /
+.link_btn         { text-align:center; color:#FFFFFF; display:inline-block; float:left; position:relative; }
+.lkb_round        { font-weight:bold; background: no-repeat url(../imgs/gral/btn_graycontour_transparentcontent.gif); font-size:16px; padding:4px 0px 7px 0px; width:143px;}
+.lkb_round:hover  { background: no-repeat url(../imgs/gral/btn_graycontour_transparentcontent_hover_w.gif);}
+.lkb_round_sm	  { background: no-repeat url(../imgs/gral/btn_round_sm_on.jpg);	font-size:10px;	padding:0px 0px 2px 0px; margin:5px 3px 0px 0px; width:90px;}
+.lkb_round_md	  { background: no-repeat url(../imgs/gral/btn_round_md_off.png); font-size:12px; padding:5px 0px 5px 0px; margin-left:3px;	width:102px;}
+.lkb_round_md:hover{ background: no-repeat url(../imgs/gral/btn_round_md_on.png); color:#333333;}
+.lkb_reg          { background: no-repeat url(../imgs/gral/btn_round_md_on_reg.png);}
+.lkb_subir        {	background: no-repeat url(../imgs/gral/btn_round_md_on_subir.png); margin-left:3px;	color:#333333; font-weight:bold; padding:4px 20px 5px 0px; font-size:14px; width:72px;}
+.lkb_subir:hover  { background: no-repeat url(../imgs/gral/btn_round_md_off_subir.png); color:#333333;}
+*/
+
+
+/* --- Encuesta --- /
+.sv		{	font-size:14px; text-align:center;}
+ .sv ul	{	text-align: left;list-style:none;line-height:1.5;display:block; padding:0px 10px 0px 10px;}
+ .sv p	{ 	padding:10px;}
+ .sv form input.sv_votar{padding:6px 3px 6px 3px; color:#FFFFFF; display:block;}
+
+/* --- MAIN --- /
+#main   {	margin:auto; background:url(../imgs/gral/bkg_logo_lights.jpg) no-repeat;}
+
+/* --- Header Settings --- /
+#header {   width:960px; height:110px; margin:auto;}
+#top_user_box{	width:960px; height:36px;}
+
+/* --- USER BOX --- /
+#user_box{	position:relative; float:right; padding:3px; font-size:12px; color:#E1E0EB;}
+	#user_box #userbox_reg_link{ color: #FFFFFF; padding: 5px 15px 0px 15px; display:inline-block;}
+	#user_box #userbox_log_link{ color:#E2E8F5;	}
+#main_head_box{ width:960px; height:74px;}
+#main_head_box .logo_box{ padding:0px 5px 0px 0px; float:left; margin-top:-13px; width:250px;}
+
+/* --- Menu Settings --- /
+#menu{ width:340px; height:74px; float:left; position:relative;}
+#search_box{ position:relative;	width:360px; height:74px; float:right; text-align:right;}
+
+/* --- SEARCH FORM --- /
+	#search_form{ margin-top:25px;	font-size:16px;	vertical-align:middle;}
+	#search_form input.search_txt_input{ width:150px; height:14px;}
+	#search_form input.search_submit{ color:#FFFFFF; background: no-repeat url(../imgs/menu/bkg_search_submit.png);	width:87px;	height:25px; font-size:14px;	}
+
+/* --- User Log Form --- /
+#user_log_form a{
+	font-size:12px;
+}
+#user_log_form p{
+	padding:10px;
+}
+#user_log_form .usr_input{
+	width:230px;
+}
+#user_log_form #pl_log_submit{
+	float:none;
+	position:static;
+	text-transform:uppercase;
+	font-size:12px;
+}
+
+/* --- Content Boxes Settings --- */
+#content{ width:960px; margin:auto;}
+	/*-- MainBoxes ---*/
+	#content #cnt_header h1{ color:#666; font-size:25px; padding:10px; font-weight:bold;}
+	#content #cnt_content{ padding:0px 10px 10px 10px;}
+	
+	/*-- breadcrumbs -- /
+	#content .breadcrumbs{ display:block; width:960px; height:26px; padding:8px 0px 0px 7px;}
+	#content .breadcrumbs a{ color:#333333;	font-size:12px;display:inline-block;}
+	#content .breadcrumbs a.actual{ text-align:center; color:#FFFFFF; background: no-repeat url(../imgs/gral/btn_round_sm_breadcrumbs.png); font-size:11px; padding:1px 0px 2px 0px; display:inline-block; width:100px;}
+	
+	/* Main Announcer Box /
+	.main_announcer_box{ width:960px; height:200px; background:#ffb011 bottom left no-repeat url(../imgs/widgets/main_announcer/main_img.jpg);}
+	  .main_announcer_box p{ width:420px; margin-left:300px; padding-top:20px; color:#FFFFFF; float:left; }
+	  .main_announcer_box span{	font-size:24px; font-weight:bold; }
+	  .main_announcer_box .registry_notice{ width:230px; height:105px; background:url(../imgs/widgets/main_announcer/ma_register_bkg.jpg) no-repeat #FFFFFF center; text-align:right; padding-top:95px; float:right; position:relative;}
+	  
+/* -- content trigger [loggedUserBox] ---*/
+#content_trigger_box{
+	width:960px;
+	position:relative;
+	float:left;
+	padding-bottom:10px;
+	font-size:12px;
+}
+#content_trigger_box .cnt_trgr_title{
+	font-size:20px;
+	font-weight:bold;
+	padding:10px;
+}
+#content_trigger_box ul.list{
+	list-style:none;
+	line-height:1px;
+	margin:0px;
+}
+#content_trigger_box ul li{
+	/* all list items */ 
+	float: left;
+	text-align:left;
+	display:block;
+	/* width needed or else Opera goes nuts */ 
+}
+#content_trigger_box ul li ul{
+	float:left;
+	margin-left:5px;
+}
+#content_trigger_box ul li ul li{
+	float:none;
+	width:230px;
+	display:block;
+	padding:3px;
+}
+#content_trigger_box ul li ul li.mdb_sec_title a{
+	font-weight:bold;
+	text-transform:uppercase;
+	padding-bottom:7px;
+	padding-top:12px;
+	background-color:#E7E7ED;
+}
+#content_trigger_box ul li ul li a{
+	color:#333333;
+	display:block;
+	padding:5px;
+	padding-top:8px;
+}
+
+	/* -- Social invitation box -- */
+	#invite_box{
+		margin:auto;
+		margin-bottom:5px;
+		width:720px;
+		padding:5px;
+		background-color:#FFFF99;
+		position:relative;
+		float:left;
+		line-height:25px;
+		text-align:center;
+	}
+	#invite_box .cls_btn{
+		position:absolute;
+		top:5px;
+		right:5px;
+	}
+	#invite_box img{
+		border: solid 1px #f8f8f8;
+	}
+
+/* -- central content [notLoggedUserBox]--- /
+
+	#central_content{
+		width:730px;
+		float:left;
+		background-color:#FFFFFF;
+	}
+	
+	#content_stream_box{
+		position:relative;
+		width: 365px;
+		background-color:#99CC99;
+		float:right;
+	}
+	#central_content .author_link{
+		color:#4399BC;
+		font-weight:bold;
+	}
+	#central_content #last_updates{
+    border-right: 1px solid #F4F4F4;
+    color: #0178A3;
+    float: left;
+    height: 205px;
+    overflow: hidden;
+    position: relative;
+    width: 729px;
+	}
+
+/* --- Tabs --- */
+.tbs { position: relative; padding: 0; zoom: 1; }
+  .tbs .tbs-nav { margin: 0; padding: 0; background-color:#4f6161; height:40px; }
+   .tbs .tbs-nav li { list-style: none; float: left; position: relative; top: 0; margin: 0 0 0 0; border-bottom: 0 !important; padding: 0; white-space: nowrap; }
+   .tbs .tbs-nav li a { text-transform:uppercase; float: left; font-size:15px; padding:10px 15px 10px 15px; text-decoration: none; display:inline-block; height:20px; }
+   .tbs .tbs-nav .default{ background-color:#4f6161;}
+   .tbs .tbs-nav .default a { color:#FFFFFF;  }
+   .tbs .tbs-nav .default a:hover{background-color: #6b8484;}
+   .tbs .tbs-nav .active{background:#ffffff  url(../imgs/widgets/last_updates/menu_arrow.gif) no-repeat bottom left; padding-bottom:13px; }
+   .tbs .tbs-nav .active a{ background-color:#2B3536;}
+   .tbs .tbs-nav .active a:hover { background-color:#2B3536;}
+   .tbs .tbs-nav li.selected a { margin-bottom: 0; background-color:#2B3536;}
+  .tbs .tbs_cnt_row{ padding:5px 0px; margin-left:10px; width:680px; height:25px; border-bottom:solid 1px #CCCCCC;}
+   .tbs .tbs_cnt_row .lkb_round_sm{ color:#0178A3;}
+   .tbs .tbs_cnt_row span{font-size:12px; bottom:0; margin:5px; display:inline-block;}
+   .tbs .tbs_cnt_row h1{font-size:16px; padding-left:5px; text-transform:uppercase; display:inline-block; position:relative; float:left;}
+  .tbs .tbs_more {margin-top:5px;	text-align:right; padding-right:10px; width:300px; height:15px;}
+
+/* --- ShareBar --- /
+#sharebar{width:710px; height:40px;	background-color: #DDDDDD; border-top:solid 1px #999999; margin: 10px 0px 15px 0px;}
+#sharebar .social_bar{ margin:5px 0px 10px 0px; border-left:solid 1px #E2E2E2; padding:5px;	font-size:11px;}
+
+/* --- Search Result --- */
+.s_result_box{	width:710px; padding:10px; font-size:12px;}
+  .s_result_box a{ color:#0178A3;	}
+  .s_result_box .s_result_actual{ font-size:16px;}
+  .s_result_box .s_result_keyword{ font-style:italic;}
+  .s_result_box #s_options_box{ width:700px;padding:5px; background-color:#F3F3F3; font-size:12px; margin-top:10px;margin-bottom:10px;}
+  .s_result_box ul.s_list{ width:700px; margin-left:5px; list-style:none;}
+  .s_result_box ul.s_list li{	margin-bottom:10px;}
+  .s_result_box a.s_title{ font-size:15px; font-weight:bold;}
+  .s_result_box span{ color:#999;}
+  .s_result_box div.s_rating{	padding-left:4px; width:60px; display:inline-table;	margin-left:7px; background: no-repeat url(../imgs/gral/rating_bkg.jpg);}
+  .s_result_box div.s_rating a{border:none; padding:none;	margin:0;}
+  .s_result_box p#s_pages a{ margin-left:5px;}
+   .s_result_box .s_actual{ font-weight:bold;}
+
+/* --- sidebar box --- /
+#sidebar_box{ width:230px; background-color:#FFFFFF;float:right;position:relative;}
+  #sidebar_box .sb_box{ width:230px; float:left; position:relative; padding-bottom:5px;}
+  #sidebar_box .sb_title{ font-size:15px; color:#FFFFFF; background:#2B3536 url(../imgs/gral/sidebar_title_arrow.jpg) no-repeat bottom;padding:10px; padding-bottom:23px; }
+  #sidebar_box .sb_content{	padding-bottom:10px;}
+  #sidebar_box .sb_ad{ width:210px; height:210px; margin:10px; background-color:#DDDDDD;}
+
+/* --- Footer Settings --- */
+#footer{ margin:auto; width:960px; background-color:#293237;}
+#footer .ft_title{ height:18px; background-color:#459BBC; color:#76D6EC; text-transform:uppercase; font-weight:bold; padding:12px;}
+#footer .ft_content{ color:#449ABB; background: no-repeat url(../imgs/gral/footer_title_arrow.jpg); padding:25px 0px 0px 15px;}
+#footer #connect_box{ width:365px; float:left;	background-color:#293237;}
+#footer #nav_box{ width:595px; float:right; background-color:#293237; padding-bottom:15px;}
+#footer #nav_box .ft_sitemap_col{ font-size:14px; border-left:2px solid #31535F; display:block; min-width:150px; padding: 10px 5px 10px 15px;	position:relative; float:left;	margin-left:-15px;}
+.ft_sitemap_col ul{
+	font-size:15px;
+ 	/* all lists */
+	margin: 0px;
+	list-style: none; 
+	line-height:1.5;
+	color:#FFFFFF;
+}
+.ft_sitemap_col a{
+	padding:3px;
+	color:#449ABB;
+}
+.ft_sitemap_col a:hover{
+	color:#FFFFFF;
+}
+
+#footer #copy_box{
+	height: 20px;
+	width:950px;
+	padding: 5px;
+	background-color:#1E2629;
+	text-align:right;
+	vertical-align:middle;
+	clear:both;
+	color:#FFFFFF;
+	font-size:10px;
+}
+#footer #copy_box a{
+	color:#00CCFF;
+}
+#footer .ft_social {
+	padding-bottom:10px;	
+}
+#footer .ft_social a{
+	margin: 5px;
+}
+#footer .ft_aditional_links a{
+	padding:3px;
+	color:#449ABB;
+}

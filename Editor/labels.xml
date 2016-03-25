@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<labels>
+  <webforms>
+    <webform name="frmAnswers">
+      <field name="AnswerId" label="Answer Id" instructions="Insert a value for Answer Id" />
+      <field name="QuestionId" label="Question Id" instructions="Insert a value for Question Id" />
+      <field name="Val1" label="Val 1" instructions="Insert a value for Val 1" />
+      <field name="Val2" label="Val 2" instructions="Insert a value for Val 2" />
+      <field name="Val3" label="Val 3" instructions="Insert a value for Val 3" />
+      <field name="Val4" label="Val 4" instructions="Insert a value for Val 4" />
+      <field name="Val5" label="Val 5" instructions="Insert a value for Val 5" />
+      <field name="Val6" label="Val 6" instructions="Insert a value for Val 6" />
+      <field name="Val7" label="Val 7" instructions="Insert a value for Val 7" />
+      <field name="Val8" label="Val 8" instructions="Insert a value for Val 8" />
+      <field name="Val9" label="Val 9" instructions="Insert a value for Val 9" />
+      <field name="Val10" label="Val 10" instructions="Insert a value for Val 10" />
+      <field name="Ipaddress" label="Ipaddress" instructions="Insert a value for Ipaddress" />
+    </webform>
+    <webform name="frmBook">
+      <field name="Id" label="Id" instructions="Insert a value for Id" />
+      <field name="Book" label="Book" instructions="Insert a value for Book" />
+    </webform>
+    <webform name="frmBooleanResponse">
+      <field name="Id" label="Id" instructions="Insert a value for Id" />
+      <field name="Value" label="Value" instructions="Insert a value for Value" />
+    </webform>
+    <webform name="frmCategories">
+      <field name="Id" label="Id" instructions="Insert a value for Id" />
+      <field name="Description" label="Description" instructions="Insert a value for Description" />
+      <field name="SectionId" label="Section Id" instructions="Insert a value for Section Id" />
+    </webform>
+    <webform name="frmCategoriesSection">
+      <field name="Id" label="Id" instructions="Insert a value for Id" />
+      <field name="Description" label="Description" instructions="Insert a value for Description" />
+    </webform>
+    <webform name="frmCategoryPage">
+      <field name="Id" label="Id" instructions="Insert a value for Id" />
+      <field name="CategoryId" label="Category Id" instructions="Insert a value for Category Id" />
+      <field name="PageId" label="Page Id" instructions="Insert a value for Page Id" />
+    </webform>
+    <webform name="frmCountries">
+      <field name="Id" label="Id" instructions="Insert a value for Id" />
+      <field name="Name" label="Name" instructions="Insert a value for Name" />
+    </webform>
+    <webform name="frmEstadoCivil">
+      <field name="Id" label="Id" instructions="Insert a value for Id" />
+      <field name="Description" label="Description" instructions="Insert a value for Description" />
+    </webform>
+    <webform name="frmForums">
+      <field name="Forumid" label="Forumid" instructions="Insert a value for Forumid" />
+      <field name="Forum" label="Forum" instructions="Insert a value for Forum" />
+      <field name="Description" label="Description" instructions="Insert a value for Description" />
+      <field name="Posts" label="Posts" instructions="Insert a value for Posts" />
+      <field name="Lastpost" label="Lastpost" instructions="Insert a value for Lastpost" />
+    </webform>
+    <webform name="frmFunctions">
+      <field name="Description" label="Description" instructions="Insert a value for Description" />
+    </webform>
+    <webform name="frmMessages">
+      <field name="Messageid" label="Messageid" instructions="Insert a value for Messageid" />
+      <field name="Forumid" label="Forumid" instructions="Insert a value for Forumid" />
+      <field name="Inreplyto" label="Inreplyto" instructions="Insert a value for Inreplyto" />
+      <field name="Postedby" label="Postedby" instructions="Insert a value for Postedby" />
+      <field name="Email" label="Email" instructions="Insert a value for Email" />
+      <field name="Subject" label="Subject" instructions="Insert a value for Subject" />
+      <field name="Body" label="Body" instructions="Insert a value for Body" />
+      <field name="Mdate" label="Mdate" instructions="Insert a value for Mdate" />
+      <field name="Approved" label="Approved" instructions="Insert a value for Approved" />
+    </webform>
+    <webform name="frmMyTasks">
+      <field name="Id" label="Id" instructions="Insert a value for Id" />
+      <field name="TaskBy" label="Task By" instructions="Insert a value for Task By" />
+      <field name="TaskTo" label="Task To" instructions="Insert a value for Task To" />
+      <field name="Title" label="Title" instructions="Insert a value for Title" />
+      <field name="Body" label="Body" instructions="Insert a value for Body" />
+      <field name="Priority" label="Priority" instructions="Insert a value for Priority" />
+      <field name="DateSubmited" label="Date Submited" instructions="Insert a value for Date Submited" />
+      <field name="DueDate" label="Due Date" instructions="Insert a value for Due Date" />
+      <field name="Status" label="Status" instructions="Insert a value for Status" />
+    </webform>
+    <webform name="frmNewsletter">
+      <field name="Id" label="Id" instructions="Insert a value for Id" />
+      <field name="Email" label="Email" instructions="Insert a value for Email" />
+    </webform>
+    <webform name="frmPageType">
+      <field name="Id" label="Id" instructions="Insert a value for Id" />
+      <field name="Value" label="Value" instructions="Insert a value for Value" />
+    </webform>
+    <webform name="frmPages">
+      <field name="PageId" label="Page Id" instructions="Insert a value for Page Id" />
+      <field name="SectionId" label="Section Id" instructions="Insert a value for Section Id" />
+      <field name="Posted" label="Posted" instructions="Insert a value for Posted" />
+      <field name="PageTitle" label="Page Title" instructions="Insert a value for Page Title" />
+      <field name="Blurb" label="Blurb" instructions="Insert a value for Blurb" />
+      <field name="Body" label="Body" instructions="Insert a value for Body" />
+      <field name="Isposted" label="Isposted" instructions="Insert a value for Isposted" />
+      <field name="Pic" label="Pic" instructions="Insert a value for Pic" />
+      <field name="Typeofarticle" label="Typeofarticle" instructions="Insert a value for Typeofarticle" />
+      <field name="Isfeatured" label="Isfeatured" instructions="Insert a value for Isfeatured" />
+      <field name="UserId" label="User Id" instructions="Insert a value for User Id" />
+      <field name="Keywords" label="Keywords" instructions="Insert a value for Keywords" />
+      <field name="Book" label="Book" instructions="Insert a value for Book" />
+      <field name="Chapter" label="Chapter" instructions="Insert a value for Chapter" />
+      <field name="Rating" label="Rating" instructions="Insert a value for Rating" />
+    </webform>
+    <webform name="frmPriority">
+      <field name="Id" label="Id" instructions="Insert a value for Id" />
+      <field name="Description" label="Description" instructions="Insert a value for Description" />
+    </webform>
+    <webform name="frmQuestions">
+      <field name="QuestionId" label="Question Id" instructions="Insert a value for Question Id" />
+      <field name="QuestionDesc" label="Question Desc" instructions="Insert a value for Question Desc" />
+      <field name="DateStart" label="Date Start" instructions="Insert a value for Date Start" />
+      <field name="DateEnd" label="Date End" instructions="Insert a value for Date End" />
+      <field name="Question1" label="Question 1" instructions="Insert a value for Question 1" />
+      <field name="Question2" label="Question 2" instructions="Insert a value for Question 2" />
+      <field name="Question3" label="Question 3" instructions="Insert a value for Question 3" />
+      <field name="Question4" label="Question 4" instructions="Insert a value for Question 4" />
+      <field name="Question5" label="Question 5" instructions="Insert a value for Question 5" />
+      <field name="Question6" label="Question 6" instructions="Insert a value for Question 6" />
+      <field name="Question7" label="Question 7" instructions="Insert a value for Question 7" />
+      <field name="Question8" label="Question 8" instructions="Insert a value for Question 8" />
+      <field name="Question9" label="Question 9" instructions="Insert a value for Question 9" />
+      <field name="Question10" label="Question 10" instructions="Insert a value for Question 10" />
+    </webform>
+    <webform name="frmRating">
+      <field name="Id" label="Id" instructions="Insert a value for Id" />
+      <field name="PageId" label="Page Id" instructions="Insert a value for Page Id" />
+      <field name="Val" label="Val" instructions="Insert a value for Val" />
+      <field name="Ipaddress" label="Ipaddress" instructions="Insert a value for Ipaddress" />
+    </webform>
+    <webform name="frmRegUsers">
+      <field name="Id" label="Id" instructions="Insert a value for Id" />
+      <field name="FirstName" label="Nombre(s)" instructions="Ingresa tu primer nombre" />
+      <field name="LastName" label="Apellido(s)" instructions="Ingresa tu apellido" />
+      <field name="Password" label="Clave" instructions="Ingresa tu clave" />
+      <field name="Email" label="E-mail" instructions="Ingresa tu direccion de e-mail" />
+      <field name="FirstVisit" label="First Visit" instructions="Insert a value for First Visit" />
+      <field name="Bday" label="Bday" instructions="Insert a value for Bday" />
+      <field name="Sex" label="Sex" instructions="Insert a value for Sex" />
+      <field name="MStatus" label="M Status" instructions="Insert a value for M Status" />
+      <field name="WorkType" label="Work Type" instructions="Insert a value for Work Type" />
+      <field name="City" label="City" instructions="Insert a value for City" />
+      <field name="State" label="State" instructions="Insert a value for State" />
+      <field name="Country" label="Country" instructions="Insert a value for Country" />
+      <field name="MainLanguage" label="Main Language" instructions="Insert a value for Main Language" />
+      <field name="Phone" label="Phone" instructions="Insert a value for Phone" />
+      <field name="SecurityLevel" label="Security Level" instructions="Insert a value for Security Level" />
+      <field name="Picture" label="Picture" instructions="Insert a value for Picture" />
+      <field name="Otherinfo" label="Otherinfo" instructions="Insert a value for Otherinfo" />
+    </webform>
+    <webform name="frmSectionArticles">
+      <field name="Id" label="Id" instructions="Insert a value for Id" />
+      <field name="SectionId" label="Section Id" instructions="Insert a value for Section Id" />
+      <field name="Articles" label="Articles" instructions="Insert a value for Articles" />
+    </webform>
+    <webform name="frmSections">
+      <field name="SectionId" label="Section Id" instructions="Insert a value for Section Id" />
+      <field name="SectionName" label="Section Name" instructions="Insert a value for Section Name" />
+      <field name="SectionParent" label="Section Parent" instructions="Insert a value for Section Parent" />
+      <field name="PostInMenu" label="Post In Menu" instructions="Insert a value for Post In Menu" />
+      <field name="Blurb" label="Blurb" instructions="Insert a value for Blurb" />
+      <field name="Pagetext" label="Pagetext" instructions="Insert a value for Pagetext" />
+      <field name="UserId" label="User Id" instructions="Insert a value for User Id" />
+      <field name="LastModified" label="Last Modified" instructions="Insert a value for Last Modified" />
+      <field name="ModBy" label="Mod By" instructions="Insert a value for Mod By" />
+      <field name="ShowOnDroplist" label="Show On Droplist" instructions="Insert a value for Show On Droplist" />
+    </webform>
+    <webform name="frmSexo">
+      <field name="Id" label="Id" instructions="Insert a value for Id" />
+      <field name="Description" label="Description" instructions="Insert a value for Description" />
+    </webform>
+    <webform name="frmUserSecurityLevel">
+      <field name="Id" label="Id" instructions="Insert a value for Id" />
+      <field name="SecurityLevel" label="Security Level" instructions="Insert a value for Security Level" />
+    </webform>
+    <webform name="frmUserType">
+      <field name="Id" label="Id" instructions="Insert a value for Id" />
+      <field name="UserType" label="User Type" instructions="Insert a value for User Type" />
+    </webform>
+    <webform name="frmWorkType">
+      <field name="Id" label="Id" instructions="Insert a value for Id" />
+      <field name="Description" label="Description" instructions="Insert a value for Description" />
+    </webform>
+  </webforms>
+</labels>

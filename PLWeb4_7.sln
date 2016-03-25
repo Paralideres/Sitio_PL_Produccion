@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library_PL", "..\Library_PL\Library_PL\Library_PL.csproj", "{A67271D9-8604-4639-81F9-B71C487CAC50}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Library_PL_Editor", "..\Library_PL_Editor\Library_PL_Editor\Library_PL_Editor.vbproj", "{CD815D6C-D5D6-4A34-9CB0-9B138CC029C5}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PLWeb4_7", "PLWeb4_7.vbproj", "{C4DA7E21-15B4-4768-B19F-0F76B213C8B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A67271D9-8604-4639-81F9-B71C487CAC50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A67271D9-8604-4639-81F9-B71C487CAC50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A67271D9-8604-4639-81F9-B71C487CAC50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A67271D9-8604-4639-81F9-B71C487CAC50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD815D6C-D5D6-4A34-9CB0-9B138CC029C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD815D6C-D5D6-4A34-9CB0-9B138CC029C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD815D6C-D5D6-4A34-9CB0-9B138CC029C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD815D6C-D5D6-4A34-9CB0-9B138CC029C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4DA7E21-15B4-4768-B19F-0F76B213C8B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4DA7E21-15B4-4768-B19F-0F76B213C8B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4DA7E21-15B4-4768-B19F-0F76B213C8B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4DA7E21-15B4-4768-B19F-0F76B213C8B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

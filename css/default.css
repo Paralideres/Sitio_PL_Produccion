@@ -1,0 +1,216 @@
+﻿*
+{
+    font-family:"Trebuchet MS", Arial, Helvetica, Sans-Serif, Verdana, Sans;
+    font-weight:lighter;
+    text-decoration: none;
+    margin:0px;
+    padding:0px;
+    border:0px;
+    border-collapse:collapse;
+}
+
+h2
+{
+  font-family:Century Gothic,Verdana, Genava, Sans-Serif;
+  font-size : 20px;   
+  color: #333;
+  font-weight: normal;
+  margin: 0 0 2px 0;
+  
+}
+
+.txt, .check
+{
+    font-size: 12px;
+    font-weight : normal;
+    color: #707070;
+}
+
+.txt
+{
+    border: solid 1px #dcdcdc;
+    margin-bottom:5px;
+    width: 100px;
+}
+
+.txt:hover, .check:hover
+{
+    border: solid 1px #c6c6c6;
+}
+
+.btn-action
+{
+    height: 20px;
+    width: 100px;
+    margin: 5px;
+    color: rgb(102, 102,102);
+    background-color: rgb(245,245,245);
+    border: 1px solid #dcdcdc;
+    font-size: 10px;
+    font-weight: bold;
+    font-family: Arial, Sans-Serif;
+    text-align:center;
+    cursor: pointer;
+}
+.btn-action:hover, .btn-action:focus
+{
+    border: 1px solid rgb(198,198,198);
+    color : rgb(51,51,51);
+    background-color: rgb(248,248,248);
+}
+
+input[type="button"]:focus 
+{
+    outline:none;
+}
+
+#divCreacion, #divResultadoBusqueda
+{
+    width: 100%;
+    margin-left: auto;
+    margin-right:auto;
+    text-align:center;
+    padding-top: 35px;
+}
+
+#divCreacion table
+{
+    width: 250px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    padding: 0px; 
+    border: 1px solid #B3C59C;
+    border-collapse: separate;
+}
+
+#divCreacion .tdFooter
+{
+    text-align: right;
+}
+
+.grid
+{
+    font-family: Tahoma;
+    font-size: 12px;
+    border: solid 1px #B3C59C;
+    border-collapse: collapse;
+    color: #333333;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display:none;
+}
+
+.grid th
+{
+    height: 20px;
+    margin: 0px;
+    text-transform: uppercase;
+    background: #b3c59c url(../images/bgbox.png) repeat-x top left;
+    color : rgb(102,102,102);
+    font-size: 10px;
+    font-weight:bold;
+    font-family: Century Gothic, Verdana, Geneva,Sans-Serif;
+    text-align: center;
+    border: solid 1px #c6c6c6;
+}
+
+.grid td
+{
+    border: solid 1px #c6c6c6;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 26px;
+}
+.gridRow
+{
+   /* background-color: #b3c59c;*/
+}
+
+.gridAltRow
+{
+    background: #dcdcdc url(../images/bgoddgrid.png) repeat-x top left;
+}
+
+.grid tr.gridRow:hover, .grid tr.gridAltRow:hover
+{
+    background-color: #c6c6c6;
+    background-image: none;
+    cursor: pointer;
+}
+.tablas
+{
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    padding: 0px;
+    border: 1px solid #B3C59C;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.tablas-no-border
+{
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    padding: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 35px;
+}
+.titulo-grilla
+{
+    height: 20px;
+    width: 100%;
+    text-transform: uppercase;
+    background: #B3C59C url(../images/bgbox.png) repeat-x top left;
+    color: rgb(102, 102, 102);
+    font-size: 10px;
+    font-weight: bold;
+    font-family: Century Gothic, Verdana, Geneva, sans-serif;
+    text-align: center;
+}
+
+.etiquetas
+{
+    font-size: 11px;
+    color: #707070;
+    vertical-align: baseline;
+    text-align: right;
+    font-family: Century Gothic, Verdana, Geneva, sans-serif;
+    margin-bottom: 7px;
+}
+.ddl-contenido
+{
+    width: 160px;
+    font-size: 12px;
+    font-weight: normal;
+    color: #707070;
+    border: solid 1px #dcdcdc;
+    margin-bottom: 5px;
+}
+.ddl-medium
+{
+    width: 100px;
+    font-size: 12px;
+    font-weight: normal;
+    color: #707070;
+    border: solid 1px #dcdcdc;
+    margin-bottom: 5px;
+}
+.ddl-contenido-small
+{
+    width: 85px;
+    font-size: 12px;
+    font-weight: normal;
+    color: #707070;
+    border: solid 1px #dcdcdc;
+    margin-bottom: 5px;
+}

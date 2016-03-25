@@ -1,0 +1,207 @@
+@charset "utf-8";
+/* ParaLideres.org v. 4.0.0 
+   resource_style.css
+*/
+#resource_box{
+	width:710px;
+	padding:10px;
+}
+
+/* titile bar / foto, nombre del recurso, autor, y rating */
+
+	#resource_box #r_titlebar{
+		width:710px;
+	}
+	
+	#resource_box #r_titlebar .r_author_pic{
+		width:50px;
+		height:70px;
+		padding:3px;
+		background-image:url(../imgs/gral/medium_img_round_corners.gif);
+		margin-right:5px;
+		display:inline;
+	}
+	#resource_box #r_titlebar div{
+		width:640px;
+		display:inline-block;
+	}
+	#resource_box #r_titlebar h1{
+		font-size:25px;
+		font-weight:bold;
+		color:#666666;
+	}
+	#resource_box #r_titlebar span.r_author_name{
+		font-size:12px;
+		text-transform:uppercase;
+	}
+	#resource_box #r_titlebar div.r_rating{
+		padding-left:4px;
+		width:60px;
+		background: no-repeat url(../imgs/gral/rating_bkg.jpg);
+	}
+	#resource_box #r_titlebar div.r_rating a{
+		border:none;
+		padding:none;
+		margin:0;
+	}
+
+/* sharing bar / descarga, vista previa y redes sociales */
+
+	#resource_box #r_sharebar{
+		width:710px;
+		height:40px;
+		background-color: #DDDDDD;
+		border-top:solid 1px #999999;
+		margin-top: 10px;
+		margin-bottom: 15px;
+	}
+	/*Share Bar*/
+	#resource_box #r_sharebar .addthis_toolbox {
+		margin-top:5px;
+		margin-right:10px;
+		border-left:solid 1px #E2E2E2;
+		padding:5px;
+		font-size:11px;
+	}
+	#resource_box #r_sharebar .addthis_toolbox a span {
+		display:block;
+		margin-right:3px;
+	}
+	/*Preview Btn*/
+	#resource_box #r_sharebar .preview_btn{
+		display:block;
+		width:113px;
+		height:20px;
+		background-color:#B3B4C8;
+		margin-top:10px;
+		margin-left:10px;
+	}
+	#resource_box #r_sharebar .preview_btn:hover{
+		background-color:#9596B3;
+	}
+	/*Download Btn*/
+	#resource_box #r_sharebar .r_download{
+		margin-top:5px;
+		margin-left:10px;
+		display:block;
+		width:195px;
+		height:31px;
+		background-color:#FFBC00;
+	}
+	#resource_box #r_sharebar .r_download:hover{
+	  	background-color: #E6A700;
+	}
+
+/* Content General*/
+#resource_box #r_content{
+	padding:0px 10px 25px 10px;
+	width:690px;
+	text-align:justify;
+}
+#resource_box .r_tags{
+	margin-top:10px;
+	font-size:12px;
+}
+#resource_box #r_moreincat {
+	color:#0178A3;
+	position:relative;
+	float:left;
+	width:710px;
+	height:230px;
+}
+
+	#resource_box #r_moreincat  #tabs { position: relative; padding: 0; zoom: 1; } /* position: relative prevents IE scroll bug (element with position: relative inside container with overflow: auto appear as "fixed") */
+	#resource_box #r_moreincat  #tabs .tabs-nav { margin: 0; padding: 0; background-color:#4f6161; height:25px; }
+	#resource_box #r_moreincat  #tabs .tabs-nav li { list-style: none; float: left; position: relative; top: 0; margin: 0 0 0 0; border-bottom: 0 !important; padding: 0; white-space: nowrap; }
+	#tabs  .tabs-nav li span { text-transform:uppercase; float: left; font-size:13px; padding: 4px 5px 5px 5px; text-decoration: none; display:inline-block; height:20px; color:#FFFFFF; }
+	
+	
+	#resource_box #r_moreincat  .tabs_more{
+		margin-top:5px;
+		text-align:right;
+		padding-right:10px;
+		width:300px;
+		height:15px;
+		float:right;
+		position:relative;
+	}
+	
+	#resource_box #r_moreincat  .title{
+		  font-size:15px;
+		  color:#FFFFFF;
+		  background:#2B3536 url(../../imgs/gral/sidebar_title_arrow.jpg) no-repeat bottom left;
+		  padding:10px;
+		  padding-bottom:23px;
+		  font-weight:bold;
+	}
+	#resource_box #r_moreincat  .tabs_more .arrow_box{
+		display:inline-block;
+		width:10px;
+		height:10px;
+		position:relative;
+	}
+	
+	#resource_box #r_moreincat  .lu_content_box{
+		padding:5px 0px;
+		margin-left:5px;
+		width:700px;
+		height:25px;
+		border-bottom:solid 1px #CCCCCC;
+		position:relative;
+		float:left;
+		display:inline-block;
+	}
+	#resource_box #r_moreincat  .lu_content_box .lu_doc_icon{
+		position:relative;
+		float:left;
+		display:block;
+		width:25px;
+		height:25px;
+	}
+	#resource_box #r_moreincat  .lu_content_box .link_btn_round_sm{
+		margin-top:8px;
+	}
+	#resource_box #r_moreincat  .lu_content_box h1{
+		font-weight:bold;
+		font-size:14px;
+		padding-left:5px;
+		text-transform:uppercase;
+		position:relative;
+		float:left;
+		display:inline-table;
+	}
+	#resource_box #r_moreincat  .lu_content_box a{
+		color:#0178A3;
+		text-decoration:none;
+	}
+	#resource_box #r_moreincat  .lu_content_box a:hover{
+		text-decoration:underline;
+	}
+	
+	#resource_box #r_moreincat .lu_content_box span{
+		font-size:10px;
+		bottom:0;
+		margin:5px;
+	}
+	
+	#resource_box #r_moreincat  #lu_menu_box{
+		display:block;
+		width:100%;
+		height:15px;
+		padding-top:3px;
+		padding-bottom:10px;
+		position: relative;
+		float:left;
+		color:#000000;
+		font-size:10px;
+	}
+	#resource_box #r_moreincat  #lu_menu_box a{
+		display:inline-block;
+		padding-left:4px;
+		color:#000000;
+		text-decoration:none;
+		color:#0178A3;
+	}
+	#resource_box #r_moreincat  #lu_menu_box a.active{
+		color:#000000;
+	}

@@ -1,0 +1,36 @@
+﻿#popup {
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 1001;
+}
+
+.content-popup {
+    margin:0px auto;
+    margin-top:250px;
+    margin-left:350px;
+    position:relative;
+    padding:10px;
+    width:200px;
+    min-height:50px;
+    /*background-color:#F1F1F1;*/
+    background-color:#FFFFFF;
+    
+}
+
+ul.des {
+padding: 5px 0px 0px 0px;
+}
+li.downloads
+{
+	padding-left: 16px;
+	padding-bottom: 6px;
+	display: inline;
+	background:url("../images/img_descarga.gif") no-repeat left top;
+}
+
+.descarga 
+{
+padding-bottom: 6px;
+}

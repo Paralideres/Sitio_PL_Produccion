@@ -1,0 +1,720 @@
+﻿.tabla
+{  
+  border-width: 1px;
+  border-style: solid; 
+  border-color: #4587C7  
+}
+
+.link_btn_round_sm{
+	text-align:center;
+	color:#FFFFFF;
+	text-decoration:none;
+	background: no-repeat url(../imgs/gral/btn_round_sm_on.jpg);
+	font-size:10px;
+	padding-top:0;
+	padding-bottom:2px;
+	display:inline-block;
+	width:90px;
+	float:left;
+	position:relative;
+}
+.link_btn_round_md{
+	text-align:center;
+	color:#FFFFFF;
+	text-decoration:none;
+	background: no-repeat url(../imgs/gral/btn_round_md_off.png);
+	font-size:12px;
+	padding-top:5px;
+	padding-bottom:5px;
+	margin-left:3px;
+	display:inline-block;
+	width:102px;
+	float:left;
+	position:relative;	
+}
+.link_btn_round_md_reg{
+	background: no-repeat url(../imgs/gral/btn_round_md_on_reg.png);
+}
+.link_btn_round_md_subir{
+	display:inline-block;
+	text-align:center;
+	color:#FFFFFF;
+	text-decoration:none;
+	margin-left:3px;
+	color:#333333;
+	font-weight:bold;
+	padding-top:4px;
+	padding-bottom:5px;
+	font-size:14px;
+	width:72px;
+	padding-right:20px;
+	background: no-repeat url(../imgs/gral/btn_round_md_on_subir.png);
+}
+.link_btn_round_md_subir:hover{
+	background: no-repeat url(../imgs/gral/btn_round_md_off_subir.png);
+	color:#333333;
+}
+.link_btn_round_md:hover{
+	background: no-repeat url(../imgs/gral/btn_round_md_on.png);
+	color:#333333;
+}
+
+.tabla2
+{
+   margin: 1px; 
+   border: 1px; 
+   padding: 1px;  
+   border-right: #4587C7 1px solid; 
+   border-top: #4587C7 1px solid;
+   border-left: #4587C7 1px solid;
+   border-bottom: #4587C7 1px solid;
+   border-collapse: collapse;
+   
+}
+
+.Controles
+{ 
+  border-right: #4587C7 1px solid; 
+  border-top: #4587C7 1px solid;
+  border-left: #4587C7 1px solid;
+  border-bottom: #4587C7 1px solid;
+  font-family: Verdana;
+  clear: none; 
+  font: icon;
+  vertical-align: middle; 
+  color: #4587C7; 
+  letter-spacing: normal; 
+  text-decoration: none
+}
+
+.ControlXL
+{ 
+  border-right: #00734f 1px solid; 
+  border-top: #00734f 1px solid;
+  border-left: #00734f 1px solid;
+  border-bottom: #00734f 1px solid;
+  font-family: Verdana;
+  clear: none; 
+  font: icon;
+  vertical-align: middle; 
+  color: #00734f; 
+  letter-spacing: normal; 
+  text-decoration: none;
+  width:400px
+}      
+
+       .ControlGrande
+       { 
+          border-right: #00734f 1px solid; 
+          border-top: #00734f 1px solid;
+          border-left: #00734f 1px solid;
+          border-bottom: #00734f 1px solid;
+          font-family: Verdana;
+          clear: none; 
+          font: icon;
+          vertical-align: middle; 
+          color: #00734f; 
+          letter-spacing: normal; 
+          text-decoration: none;
+          width:231px
+       } 
+        .ControlMediano
+       { 
+                  border-right: #00734f 1px solid; 
+          border-top: #00734f 1px solid;
+          border-left: #00734f 1px solid;
+          border-bottom: #00734f 1px solid;
+          font-family: Verdana;
+          clear: none; 
+          font: icon;
+          vertical-align: middle; 
+          color: #00734f; 
+          letter-spacing: normal; 
+          text-decoration: none;
+          width:116px
+       }  
+       .ControlChico
+       { 
+          border-right: #00734f 1px solid; 
+          border-top: #00734f 1px solid;
+          border-left: #00734f 1px solid;
+          border-bottom: #00734f 1px solid;
+          font-family: Verdana;
+          clear: none; 
+          font: icon;
+          vertical-align: middle; 
+          color: #00734f; 
+          letter-spacing: normal; 
+          text-decoration: none;
+          width:50px
+       }    
+       .B
+       { 
+          border-right: #00734f 2px solid; 
+          border-top: #00734f 2px solid;
+          border-left: #00734f 2px solid;
+          border-bottom: #00734f 2px solid;
+          font-family: Verdana;
+          clear: none; 
+          font: icon;
+          vertical-align: middle; 
+          color: #00734f; 
+          letter-spacing: normal; 
+          text-decoration: none;
+          cursor:hand
+       } 
+         .TextoSimple
+       {
+          font-family: Verdana;
+          vertical-align: middle; 
+          color: #00734f; 
+          letter-spacing: normal; 
+          font-weight:bold;
+          background-color: transparent;
+          text-align: center;
+          text-decoration: none;
+          font-size:x-small
+        }  
+      .Lk
+       {
+          font-family: Verdana;
+          vertical-align: middle; 
+          color: #2763A5; 
+          letter-spacing: normal; 
+          background-color: transparent;
+          text-align: center;
+          text-decoration: none;
+          font-size:x-small
+        }  
+     .Lk2
+       {
+          font-family: Verdana;
+          vertical-align: middle; 
+          color: #FF0000; 
+          letter-spacing: normal; 
+          background-color: transparent;
+          text-align: center;
+          text-decoration: none;
+          font-weight:bold;
+          font-size:small
+        }         
+       .Lk:hover
+       {
+          font-family: Verdana;
+          vertical-align: middle; 
+          color: #2763A5; 
+          letter-spacing: normal; 
+          text-decoration: underline;
+          font-size:x-small
+       } 
+       
+.celdastextoGris
+{
+	background-color: #D9D9D9;
+	font-family: Verdana;
+	font-size: 8pt;
+	color:  #00734f;
+	padding-left: 2;
+	padding-right: 2;
+}
+
+.celdascamposGris
+{
+	background-color: #EBEBEB;
+	font-family: Verdana;
+	font-size: 11px;
+	color:#00734f;
+	padding-left: 2;
+	padding-right: 2
+}
+
+.celdastextoVerde
+{
+	background-color: #00734f;
+	font-family: Verdana;
+	font-size: 11px;
+	color: #ffffff;
+	padding-left: 2;
+	padding-right: 2
+}
+
+.TablaEncabezado
+{
+	background-color: #4587C7;	
+	font-family: century gothic;
+	font-size: 13px;
+	color: #EDF1FF;
+	padding-left: 2;
+	padding-right: 2;
+	text-align: center;
+	font-weight: bold
+}
+
+
+.TablaEncabezado2
+{
+	background-color: #519BE3;
+	font-family: Verdana;
+	font-size: 11px;
+	color: #EDF1FF;
+	padding-left: 2;
+	padding-right: 2;
+	text-align: center;
+	font-weight: bold
+}
+
+
+.TablaEncabezado3
+{
+	background-color: #66A3DA;
+	font-family: Verdana;
+	font-size: 11px;
+	color: #EDF1FF;
+	padding-left: 2;
+	padding-right: 2;
+	text-align: center;
+	font-weight: bold
+}
+
+.TablaEncabezadoFIB
+{
+	background-color: #99CCFF;	
+	font-family: century gothic;
+	font-size: 13px;
+	color: #000000;
+	padding-left: 2;
+	padding-right: 2;
+	text-align: center;
+	font-weight: bold
+}
+
+.TablaTitulo
+{
+	background-color: #FFFFFF;
+	font-family: Verdana;
+	font-size: 15px;
+	color: #00734f;
+	padding-left: 2;
+	padding-right: 2;
+	text-align: center;
+	font-weight: bold
+}
+
+.celdascamposVerde
+{
+	background-color: #99ccaf;
+	font-family: Verdana;
+	font-size: 11px;
+	color: #00734f;
+	padding-left: 2
+}
+.filaoscura
+{
+	background-color: #B7D4F1; 
+	font-family: century gothic;
+	font-size: 12px;
+	color: #000000;
+	padding-left: 2;
+	padding-right: 2
+}
+.filaclara
+{
+	background-color: #FDFDFD;
+	font-family: century gothic;
+	font-size: 12px;
+	color:#000000;
+	padding-left: 2;
+	padding-right: 2
+} 
+
+.filaoscura2
+{
+	background-color: #F2EDEA; 
+	font-family: century gothic;
+	font-size: 12px;
+	color: #000000;
+	padding-left: 2;
+	padding-right: 2
+}
+.filaclara2
+{
+	background-color: #FDFDFD;
+	font-family: century gothic;
+	font-size: 12px;
+	color:#000000;
+	padding-left: 2;
+	padding-right: 2
+} 
+
+.calendario
+{
+	 border-right: #00734f 1px solid; 
+         border-top: #00734f 1px solid;
+         border-left: #00734f 1px solid;
+         border-bottom: #00734f 1px solid;
+	 font-family: Verdana;
+	 font-size : 11px;
+         color:#00734f
+}
+.error
+{
+	
+	font-family: Verdana;
+	font-size: 9px;
+	color:red
+}
+
+.paginacion
+{
+	
+	font-family: Verdana;
+	font-size: 12px;
+	color:#99ccaf;
+	font-weight: bold
+}
+
+.paginacion:hover
+{
+	
+	font-family: Verdana;
+	font-size: 12px;
+	color: #00734f;
+	font-weight: bold
+}
+.paginacionSel
+{
+	font-family: Verdana;
+	font-size: 13px;
+	color: #00734f;
+	font-weight: bold
+}
+
+.mensajeError
+{
+	font-family: Verdana, arial, helvetica, sans-serif;
+	font-size: 13px;
+	color: #4587C7;
+	font-weight:normal
+}
+.mensajeError2
+{
+	font-family: Verdana, arial, helvetica, sans-serif;
+	font-size: 13px;
+	color: #FF0000;
+	font-weight:normal
+}
+
+
+
+
+.controlGris
+{ 
+  border-right: #4587C7 1px solid; 
+  border-top: #4587C7 1px solid;
+  border-left: #4587C7 1px solid;
+  border-bottom: #4587C7 1px solid;
+  font-family: Verdana;
+  clear: none; 
+  font: icon;
+  vertical-align: middle; 
+  background-color: #F2EDEA;
+  color: #000000; 
+  letter-spacing: normal; 
+  text-decoration: none;
+  width:116px
+}
+
+.celdascamposBlanco
+{
+  background-color: #FFFFFF;
+  font-family: Verdana, arial, helvetica, sans-serif;
+  font-size: 11px;
+  color:#4587C7;	
+  padding-left: 2;
+  padding-right: 2
+}
+
+
+
+
+
+
+
+.controlGris2
+{ 
+  border-right: #4587C7 1px solid; 
+  border-top: #4587C7 1px solid;
+  border-left: #4587C7 1px solid;
+  border-bottom: #4587C7 1px solid;
+  font-family: century gothic;
+  clear: none; 
+  font: icon;
+  vertical-align: middle; 
+  background-color: #F2EDEA;
+  color: #000000; 
+  letter-spacing: normal; 
+  text-decoration: none;
+  width:116px
+}
+
+.celdascamposBlanco2
+{
+  background-color: #FFFFFF;
+  font-family: century gothic;
+  font-size: 12px;  
+  color:#2763A5;	
+  padding-left: 2;
+  padding-right: 2
+}
+
+
+
+
+
+
+
+
+.controlBlanco
+{ 
+  border-right: #4587C7 1px solid; 
+  border-top: #4587C7 1px solid;
+  border-left: #4587C7 1px solid;
+  border-bottom: #4587C7 1px solid;
+  font-family: Verdana;
+  clear: none; 
+  font: icon;
+  vertical-align: middle; 
+  background-color: #FFFFFF;
+  color: #000000; 
+  letter-spacing: normal; 
+  text-decoration: none;
+  width:116px
+}
+
+.celdasGris
+{  
+  background-color: #F2EDEA;
+  font-family: Verdana, arial, helvetica, sans-serif;
+  font-size: 11px;
+  color:#4587C7;
+  border-width: 0px;
+  border-style: hidden; 
+  border-color:#4587C7;
+  padding-left: 2;
+  padding-right: 2
+}
+		.TextoSimpleLeft
+		{
+			background-color: #FFFFFF;
+			font-family: Century Gothic;
+			font-size:12px;
+			color: #2763A5; 
+			padding-left: 2;
+			padding-right: 2;
+			text-align: left
+			
+			
+		  
+		} 
+		
+		.TextoSimpleRight
+		{
+			background-color: #FFFFFF;
+			font-family: century gothic;
+			font-size: 12px;  
+			color:#2763A5;	
+			padding-left: 2;
+			padding-right: 2;
+			text-align: right
+		}
+		
+		.TextoSimpleRight2
+		{
+			font-family: Century Gothic;
+			vertical-align: middle; 
+			color: #4587C7; 
+			letter-spacing: normal; 
+			font-weight:normal;
+			background-color: transparent;
+			text-align: right;
+			text-decoration: none;
+			font-size:12px
+		}   
+		.TextoboldLeft
+		{
+			font-family: Century Gothic;
+			vertical-align: middle; 
+			color: #2763A5; 
+			letter-spacing: normal; 
+			font-weight:bold;
+			background-color: transparent;
+			text-align: left;
+			text-decoration: none;
+			font-size:12px
+		}      
+		.TextoboldRight
+		{
+			font-family: Century Gothic;
+			vertical-align: middle; 
+			color: #4587C7; 
+			letter-spacing: normal; 
+			font-weight:bold;
+			background-color: transparent;
+			text-align: right;
+			text-decoration: none;
+			font-size:12px
+		}    
+		.PanelBoldLeft
+		{
+			font-family: Century Gothic;
+			vertical-align: middle; 
+			color: #2763A5; 
+			font-weight:bold;
+			letter-spacing: normal; 
+			background-color: transparent;
+			text-align: left;
+			text-decoration: none;
+			font-size:11px
+		}    
+		.controlGris2Relleno
+		{ 
+			border-right: #4587C7 1px solid; 
+			border-top: #4587C7 1px solid;
+			border-left: #4587C7 1px solid;
+			border-bottom: #4587C7 1px solid;
+			font-family: century gothic;
+			clear: none; 
+			font: icon;
+			vertical-align: middle; 
+			background-color: #4587C7;
+			color: #EDF1FF; 
+			letter-spacing: normal; 
+			text-decoration: none;
+			font-size: 13px;
+			width:116px;
+			padding-left: 2;
+			padding-right: 2;
+			text-align: center;
+			font-weight: bold
+		}  
+		  
+		.TablaTituloLeft
+		{
+			background-color: #99ccaf;
+			font-family: Verdana;
+			font-size: 15px;
+			color: #00734f;
+			padding-left: 2;
+			padding-right: 2;
+			text-align: left;
+			font-weight: bold
+		}
+		
+		.TextoBold
+		{
+			font-family: Century Gothic;
+			vertical-align: middle; 
+			color: #2763A5; 
+			font-weight:bold;
+			letter-spacing: normal; 
+			background-color: transparent;
+			text-align: left;
+			text-decoration: none;
+			font-size:12px			
+		} 
+		
+.login
+{
+	background-color: #EDF1FF;
+	font-family: Verdana;
+	font-size: 11px;
+	color: #4587C7;
+	padding-left: 2;
+}
+   
+
+
+.filaInconsistente
+{
+	background-color: #FE3F3F; 
+	font-family: century gothic;
+	font-size: 12px;
+	color: #000000;
+	padding-left: 2;
+	padding-right: 2
+}
+
+
+.ResultadoEncabezado
+{
+	background-color: #4587C7;	
+	font-family: century gothic;
+	font-size: 12px;
+	color: #EDF1FF;
+	padding-left: 2;
+	padding-right: 2;
+	text-align: center;
+	font-weight: bold
+}
+
+.ResultadoFilaSeleccionada
+{
+	background-color: #B7D4F1; 
+	font-family: century gothic;
+	font-size: 10px;
+	color: #000000;
+	padding-left: 2;
+	padding-right: 2
+}
+
+
+.ResultadoFilaNormal
+{
+	background-color: #F2EDEA; 
+	font-family: century gothic;
+	font-size: 10px;
+	color: #000000;
+	padding-left: 2;
+	padding-right: 2
+}
+
+
+
+
+.filaoscuraCourier
+{
+	background-color: #B7D4F1; 
+	font-family: Courier New;
+	font-size: 13px;
+	color: #000000;
+	padding-left: 2;
+	padding-right: 2
+}
+.filaclaraCourier
+{
+	background-color: #FDFDFD;
+	font-family: Courier New;
+	font-size: 13px;
+	color:#000000;
+	padding-left: 2;
+	padding-right: 2
+} 
+
+.filaoscura2Courier
+{
+	background-color: #F2EDEA; 
+	font-family: Courier New;
+	font-size: 13px;
+	color: #000000;
+	padding-left: 2;
+	padding-right: 2
+}
+.filaclara2Courier
+{
+	background-color: #FDFDFD;
+	font-family: Courier New;
+	font-size: 13px;
+	color:#000000;
+	padding-left: 2;
+	padding-right: 2
+} 

@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* hack for PNG files in IE6 and Below */
+
+* html img,
+
+* html .png{
+
+    position:relative;
+
+    behavior: expression((this.runtimeStyle.behavior="none")&&(this.pngSet?this.pngSet=true:(this.nodeName == "IMG" && this.src.toLowerCase().indexOf('.png')>-1?(this.runtimeStyle.backgroundImage = "none",
+
+        this.runtimeStyle.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + this.src + "', sizingMethod='image')",
+
+        this.src = "transparent.gif"):(this.origBg = this.origBg? this.origBg :this.currentStyle.backgroundImage.toString().replace('url("','').replace('")',''),
+
+        this.runtimeStyle.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + this.origBg + "', sizingMethod='crop')",
+
+        this.runtimeStyle.backgroundImage = "none")),this.pngSet=true)
+
+    );
+	width:1px;
+	height:1px;
+}
+
+a.link_btn_round_md{
+	background-image:none;
+	background-color:#707171;
+}
+a.link_btn_round_md:hover{
+	background-image:none;
+	background-color:#459BBE;
+}
+
+a.link_btn_round_md_reg{
+	background-image:none;
+	background-color:#66A7B3;
+}
+

@@ -1,0 +1,102 @@
+.frmField {font-family:Arial;font-size:9pt;color:#000000;text-decoration:none;}
+.frmLabel{font-family:Arial;font-size:9pt;color:#000000;text-decoration:none;}
+.frmRequired{font-family:Arial;font-size:9pt;color:#000000;text-decoration:none;font-weight:bold;}
+.frmInput{font-family:Arial;font-size:9pt;color:#000000;background-color:#FFFFFF;BORDER-RIGHT:#B7D983 1px solid;BORDER-TOP:#B7D983 1px solid;BORDER-LEFT:#B7D983 1px solid;BORDER-BOTTOM:#B7D983 1px solid;}
+.frmInputSmall{font-family:Arial;font-size:9pt;color:#000000;background-color:#FFFFFF;BORDER-RIGHT:#B7D983 1px solid;BORDER-TOP:#B7D983 1px solid;BORDER-LEFT:#B7D983 1px solid;BORDER-BOTTOM:#B7D983 1px solid; width:140px; height:18px;}
+.frmButton{font-family:Arial;font-size:9pt;font-weight:bold;color:#FFFFFF;background-color:#B7D983;BORDER-RIGHT:#000000 1px solid;BORDER-TOP:#000000 1px solid;BORDER-LEFT:#000000 1px solid;BORDER-BOTTOM:#000000 1px solid;}
+.frmInst {font-family:Arial;font-size:8pt;color:gray;text-decoration:none;}
+.hideError {visibility:hidden;position:absolute;}
+.frmSelect
+{
+    BORDER-RIGHT: #B7D983 1px solid;
+    BORDER-LEFT: #B7D983 1px solid;
+    BORDER-TOP: #B7D983 1px solid;
+    BORDER-BOTTOM: #B7D983 1px solid;
+
+    COLOR: #000000;
+    
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 8pt;
+    BACKGROUND-COLOR: white;
+
+    TEXT-ALIGN: justify;
+    TEXT-DECORATION: none;
+    
+    width: 146px;
+    height:auto;
+        	 	
+	
+}
+
+
+.frmSelectBold
+{
+    BORDER-RIGHT: #B7D983 1px solid;
+    BORDER-LEFT: #B7D983 1px solid;
+    BORDER-TOP: #B7D983 1px solid;
+    BORDER-BOTTOM: #B7D983 1px solid;
+
+    COLOR: Blue;
+    
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT:bold;
+    BACKGROUND-COLOR: white;
+    
+
+    TEXT-ALIGN: justify;
+    TEXT-DECORATION: none;
+    
+    width: 146px;
+    height:8px;
+	 	
+	
+}
+
+.panel
+
+{
+	width: 1px;
+	height: 1px;
+	border: 0px;
+	background-color: Transparent;
+	position:absolute;
+	vertical-align: top;
+	padding: 0px;
+		
+}
+
+.AjaxDivContent
+
+{
+	
+	cursor:move;
+	width: 1px;
+	height:1px;
+	vertical-align: top;
+	background-color:White;
+	border:0px solid black;
+	font-size:16px;
+	font-family:Verdana;
+	color:black;
+	text-align:center;
+	visibility:hidden;
+	padding:1px;
+	
+}
+
+.menuNormal
+
+{
+display:none;
+position:static;
+visibility:hidden;
+
+}
+
+.menuHover
+{
+display:inline;
+position:absolute;
+visibility:visible;
+}

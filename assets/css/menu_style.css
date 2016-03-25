@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* ParaLideres.org v. 4.0.0 
+   menu_style.css
+*/
+#menu_bar {
+	padding-left:3px;
+	background-image:url(../imgs/menu/bkg_menu_gral.gif);
+}
+#menu_bar ul {	
+ 	/* all lists */
+	margin: 0px;
+	list-style: none; 
+	line-height: 1;
+	
+}
+#menu_bar ul li { 
+	/* all list items */ 
+	float: left;
+	text-align:center;
+	display:block;
+	/* width needed or else Opera goes nuts */ 
+}
+#menu_bar a {
+	vertical-align:middle;
+	padding: 27px 4px 27px 0px;
+	color:#FFFFFF;
+	display: inline-block;
+	text-decoration:none;
+	font-size:15px;
+	width:108px;
+	height:20px;
+	background-image:url(../imgs/menu/bkg_btn_off.gif);
+	background-repeat:no-repeat;
+}
+#menu_bar a:hover {
+	background-position: 0px -74px;
+}
+
+/*--- MENU DISPLAY BOX ---*/
+
+#menu_display_box{
+	width: 960px;
+	height:500px;
+	padding:5px 0px 10px 0px;
+	background-color:#d7efef;
+	position:absolute;
+	/*display:none;*/
+	color:#FFFFFF;
+	border-bottom:2px solid #27262D;
+	z-index:100;
+	visibility:hidden;
+	}
+#menu_display_box ul.mdb_list{
+	list-style:none;
+	line-height:1px;
+	margin:0px;
+}
+#menu_display_box ul li{
+	/* all list items */ 
+	float: left;
+	text-align:left;
+	display:block;
+	/* width needed or else Opera goes nuts */ 
+}
+#menu_display_box li ul{
+	float:left;
+	margin-left:5px;
+}
+#menu_display_box li ul li{
+	float:none;
+	width:170px;
+	display:block;
+	padding:3px;
+}
+#menu_display_box li ul li.mdb_sec_title a{
+	border-bottom: 1px solid #898989;
+	font-weight:bold;
+	text-transform:uppercase;
+	padding-bottom:10px;	
+}
+#menu_display_box li ul li a{
+	color:#333333;
+	display:block;
+	padding:5px;
+	padding-top:8px;
+}

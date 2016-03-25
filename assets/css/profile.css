@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* ParaLideres.org v. 4.0.0 
+   profile.css
+*/
+.profile_box{ width:710px;}
+
+/* titile bar / foto, nombre del recurso, autor, y rating */
+
+	.profile_box #p_titlebar{ width:710px; }
+	.profile_box #p_titlebar .p_author_pic{	width:50px;	height:70px; padding:3px; background-image:url(../imgs/gral/medium_img_round_corners.gif); margin-right:5px; display:inline;}
+	.profile_box #p_titlebar div.p_author{position:absolute; bottom:0; left:65px;}
+	.profile_box #r_titlebar span.p_author_data{font-size:12px; color:#666666;}
+	.profile_box #r_titlebar span.r_date{font-size:12px; color:#999;}
+	
+/* Content General*/
+.profile_box .p_review{	padding:0px 0px 20px 0px; width:690px; text-align:justify; margin:10px;}
+.profile_box .p_review_title{ font-size: 20px;}
+.profile_box #r_moreincat {	color:#0178A3; position:relative; float:left; width:710px; height:230px;}

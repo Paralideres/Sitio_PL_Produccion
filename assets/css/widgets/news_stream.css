@@ -1,0 +1,108 @@
+@charset "utf-8";
+/* ParaLideres.org v. 4.0.0 
+   news_stream.css
+   style
+*/
+#news_stream_box{
+	position:relative;
+	width: 365px;
+	background-color:#FFFFFF;
+	float: left;
+	border-right:1px solid #f4f4f4;
+	padding-bottom:10px;
+}
+#news_stream_box a{
+	color:color:#0178A3;
+}
+.nws_header{
+	display:block;
+	position:relative;
+	float:left;
+	width:365px;
+	height:50px;
+	background-color:#EFEFEF;
+}
+.nws_header h1{
+	display:inline-block;
+	padding:0;
+	width:200px;
+	font-size:18px;
+	color:#000000;
+	margin-top:12px;
+	margin-left:20px;
+	padding-left:30px;
+	background:url(../../imgs/widgets/nws_stream_header_img.jpg) no-repeat;
+}
+.nws_header a{
+	margin-top:15px;
+	float: right;
+	text-align:center;
+	font-size:12px;
+	display:inline-block;
+	padding:3px;
+}
+a.nws_suscribe{
+	font-size:12px;
+	color:#EA753F;
+}
+a.nws_more{
+	font-size:12px;
+}
+.nws_option_selector{
+	background-color:#EFEFEF;
+	width:360px;
+	height:25px;
+	display:block;
+	position:relative;
+	float:left;
+	padding-top:5px;
+	padding-left:5px;
+}
+.nws_option_selector select{
+	width:200px;
+	height:20px;
+}
+.nws_content{
+	position:relative;
+	float:left;
+	width:365px;
+	padding-top:27px;
+	background:#FFFFFF url(../../imgs/widgets/nws_stream_head_arrow.gif) no-repeat;
+}
+
+.nws_content ul{
+	list-style:none;
+	line-height:1;
+	margin:0px;
+}
+.nws_stream{
+	padding:10px 30px 10px 0px;
+	margin-left:30px;
+	border-bottom:1px solid #f4f4f4;
+}
+.nws_stream img{
+	width:30px;
+	height:30px;
+	padding:3px;
+	background-image:url(../../imgs/gral/small_img_round_corners.gif);
+	display: inline;
+	margin-right:5px;
+}
+.nws_stream div{
+	width:250px;
+	display: inline-block;
+}
+.nws_stream div h1{
+	padding-top:3px;
+	padding-bottom:3px;
+	display:inline-block;
+	width:250px;
+	font-size:18px;
+}
+.nws_stream div h1 a{
+	color:#4399BC;
+}
+.nws_stream div span{
+	font-size:11px;
+	padding-top:4px;
+}

@@ -1,0 +1,2423 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PLWeb4_7
+</name>
+</assembly>
+<members>
+<member name="F:PLWeb4_7.Lista_DelAutor.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Lista_DelAutor.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Lista_DelAutor.tblResultado">
+	<summary>
+tblResultado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Lista_DelAutor.TagPaginacion">
+	<summary>
+TagPaginacion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Populares.LblPopularesTituloPrincipal">
+	<summary>
+Control LblPopularesTituloPrincipal.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Populares.lblSigno1">
+	<summary>
+Control lblSigno1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Populares.hrefTitulo1">
+	<summary>
+Control hrefTitulo1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Populares.lblSigno2">
+	<summary>
+Control lblSigno2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Populares.hrefTitulo2">
+	<summary>
+Control hrefTitulo2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Populares.lblSigno3">
+	<summary>
+Control lblSigno3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Populares.hrefTitulo3">
+	<summary>
+Control hrefTitulo3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Populares.lblSigno4">
+	<summary>
+Control lblSigno4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Populares.hrefTitulo4">
+	<summary>
+Control hrefTitulo4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Populares.lblSigno5">
+	<summary>
+Control lblSigno5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Populares.hrefTitulo5">
+	<summary>
+Control hrefTitulo5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Populares.tblResultadoArticulos">
+	<summary>
+Control tblResultadoArticulos.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Populares.TagPaginacion">
+	<summary>
+Control TagPaginacion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Profile.TituloPerfil">
+	<summary>
+Control TituloPerfil.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Profile.lblNombre">
+	<summary>
+Control lblNombre.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Profile.ImgAutor">
+	<summary>
+Control ImgAutor.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Profile.LblCiudad">
+	<summary>
+Control LblCiudad.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Profile.LblPais">
+	<summary>
+Control LblPais.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Profile.LblEmail">
+	<summary>
+Control LblEmail.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Profile.LblFecha">
+	<summary>
+Control LblFecha.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Profile.LblResena">
+	<summary>
+Control LblResena.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Profile.Lst_delAutor">
+	<summary>
+Control Lst_delAutor.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="M:PLWeb4_7.CreateCaptcha.CreateCaptchaImage">
+	<summary>  
+ method for create captcha image  
+ </summary>
+</member><member name="M:PLWeb4_7.CreateCaptcha.DrawRandomLines(System.Drawing.Graphics)">
+	<summary>  
+ Method for drawing lines  
+ </summary>
+	<param name="g"></param>
+</member><member name="M:PLWeb4_7.CreateCaptcha.GetRandomPoints">
+	<summary>  
+ method for gettting random point position  
+ </summary>
+	<returns></returns>
+</member><member name="M:PLWeb4_7.CreateCaptcha.GetRandomText">
+	<summary>  
+ Method for generating random text of 5 cahrecters as captcha code  
+ </summary>
+	<returns></returns>
+</member><member name="F:PLWeb4_7.Calendar1.frmCalendario">
+	<summary>
+frmCalendario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Calendar1.LabelYear">
+	<summary>
+LabelYear control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Calendar1.Calendario">
+	<summary>
+Calendario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Calendar1.cantYear">
+	<summary>
+cantYear control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Calendar1.myFecha">
+	<summary>
+myFecha control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Calendar1.boCerrar">
+	<summary>
+boCerrar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Prueba.mainForm">
+	<summary>
+mainForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Prueba.report_container">
+	<summary>
+report_container control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Lista_MasDelAutor.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Lista_MasDelAutor.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Lista_MasDelAutor.tblResultado">
+	<summary>
+tblResultado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Lista_MasDelAutor.TagPaginacion">
+	<summary>
+TagPaginacion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Ver_Mis_Publicaciones.hrefTitulo1">
+	<summary>
+hrefTitulo1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Ver_Mis_Publicaciones.lblNombreNivel1">
+	<summary>
+lblNombreNivel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Ver_Mis_Publicaciones.hrefTitulo2">
+	<summary>
+hrefTitulo2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Ver_Mis_Publicaciones.lblNombreNivel2">
+	<summary>
+lblNombreNivel2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Ver_Mis_Publicaciones.LblPublicacionTitulo">
+	<summary>
+LblPublicacionTitulo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Ver_Mis_Publicaciones.tblResultadoPublicacion">
+	<summary>
+tblResultadoPublicacion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Ver_Mis_Publicaciones.TagPaginacion">
+	<summary>
+TagPaginacion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.NuevaContrasena.NombreTipoEnvio">
+	<summary>
+NombreTipoEnvio control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.NuevaContrasena.cnt_contentGuardar">
+	<summary>
+cnt_contentGuardar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.NuevaContrasena.MensajedelEnvio">
+	<summary>
+MensajedelEnvio control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.NuevaContrasena.cnt_contentMail">
+	<summary>
+cnt_contentMail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.NuevaContrasena.Clave">
+	<summary>
+Clave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.NuevaContrasena.btnRegistro">
+	<summary>
+btnRegistro control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Lista_LoPopular.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Lista_LoPopular.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Lista_LoPopular.tblResultado">
+	<summary>
+tblResultado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Lista_LoUltimo.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Lista_LoUltimo.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Lista_LoUltimo.tblResultado">
+	<summary>
+tblResultado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:PLWeb4_7.My.MyWebExtension.Computer">
+	<summary>
+ Devuelve información sobre el equipo host.
+ </summary>
+</member><member name="P:PLWeb4_7.My.MyWebExtension.User">
+	<summary>
+ Devuelve información del usuario web actual.
+ </summary>
+</member><member name="P:PLWeb4_7.My.MyWebExtension.Request">
+	<summary>
+ Devuelve un objeto Request.
+ </summary>
+</member><member name="P:PLWeb4_7.My.MyWebExtension.Response">
+	<summary>
+ Devuelve un objeto Response.
+ </summary>
+</member><member name="P:PLWeb4_7.My.MyWebExtension.Log">
+	<summary>
+ Devuelve el objeto de registro Asp.
+ </summary>
+</member><member name="T:PLWeb4_7.My.MyWebExtension">
+	<summary>
+ Módulo usado para definir las propiedades que están disponibles en el espacio de nombres My para proyectos web.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:PLWeb4_7.Register.FirstName">
+	<summary>
+Control FirstName.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Register.LastName">
+	<summary>
+Control LastName.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Register.strFechaNAC">
+	<summary>
+Control strFechaNAC.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Register.ImgstrFechaNAC">
+	<summary>
+Control ImgstrFechaNAC.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Register.Clave">
+	<summary>
+Control Clave.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Register.Reclave">
+	<summary>
+Control Reclave.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Register.Email">
+	<summary>
+Control Email.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Register.Email2">
+	<summary>
+Control Email2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Register.Country">
+	<summary>
+Control Country.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Register.State">
+	<summary>
+Control State.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Register.City">
+	<summary>
+Control City.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Register.ShowInfo">
+	<summary>
+Control ShowInfo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Register.ReceiveEmails">
+	<summary>
+Control ReceiveEmails.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Register.imgCaptchaReg">
+	<summary>
+Control imgCaptchaReg.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Register.txtImagenCaptchaReg">
+	<summary>
+Control txtImagenCaptchaReg.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Register.LblImagenCaptchaRerPersonal">
+	<summary>
+Control LblImagenCaptchaRerPersonal.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Register.btnRegistro">
+	<summary>
+Control btnRegistro.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.EnvioEmail.NombreTipoEnvio">
+	<summary>
+Control NombreTipoEnvio.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.EnvioEmail.cnt_contentGuardar">
+	<summary>
+Control cnt_contentGuardar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.EnvioEmail.MensajedelEnvio">
+	<summary>
+Control MensajedelEnvio.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.EnvioEmail.cnt_contentMail">
+	<summary>
+Control cnt_contentMail.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.EnvioEmail.Email">
+	<summary>
+Control Email.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.EnvioEmail.btnRegistro">
+	<summary>
+Control btnRegistro.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.CreateCaptcha.form1">
+	<summary>
+control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7._1_Prueba.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.ActiveAccount.NombreUsuario">
+	<summary>
+NombreUsuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.ActiveAccount.MensajeError">
+	<summary>
+MensajeError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.ActiveAccount.btnActivar">
+	<summary>
+btnActivar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.ActiveAccount.CuentaActivada">
+	<summary>
+CuentaActivada control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.Head1">
+	<summary>
+Control Head1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.head">
+	<summary>
+Control head.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.form_Principal">
+	<summary>
+Control form_Principal.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.lblError">
+	<summary>
+Control lblError.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.txtEmail">
+	<summary>
+Control txtEmail.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.txtClave">
+	<summary>
+Control txtClave.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.BtnOK">
+	<summary>
+Control BtnOK.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.Div_con_Usuario_Bienvenido">
+	<summary>
+Control Div_con_Usuario_Bienvenido.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.LblBienvenido">
+	<summary>
+Control LblBienvenido.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.userbox_profile_link">
+	<summary>
+Control userbox_profile_link.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.lblUsuario">
+	<summary>
+Control lblUsuario.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.Div_sin_Usuario_Reg">
+	<summary>
+Control Div_sin_Usuario_Reg.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.lblReg">
+	<summary>
+Control lblReg.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.Div_sin_Usuario_Entrar">
+	<summary>
+Control Div_sin_Usuario_Entrar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.Div_con_Usuario_salir">
+	<summary>
+Control Div_con_Usuario_salir.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.LinkbSalir">
+	<summary>
+Control LinkbSalir.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.hrefLogo">
+	<summary>
+Control hrefLogo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.Img1">
+	<summary>
+Control Img1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.menu_bar">
+	<summary>
+Control menu_bar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.search_txt_input">
+	<summary>
+Control search_txt_input.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.btnBuscar">
+	<summary>
+Control btnBuscar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.ContenidoInicial">
+	<summary>
+Control ContenidoInicial.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.ContenidoCentral">
+	<summary>
+Control ContenidoCentral.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.lblPregunta">
+	<summary>
+Control lblPregunta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.MostrarPreguntas">
+	<summary>
+Control MostrarPreguntas.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.sv_radio_opt_1">
+	<summary>
+Control sv_radio_opt_1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.sv_radio_opt_2">
+	<summary>
+Control sv_radio_opt_2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.sv_radio_opt_3">
+	<summary>
+Control sv_radio_opt_3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.sv_radio_opt_4">
+	<summary>
+Control sv_radio_opt_4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.sv_radio_opt_5">
+	<summary>
+Control sv_radio_opt_5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.sv_radio_opt_6">
+	<summary>
+Control sv_radio_opt_6.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.sv_radio_opt_7">
+	<summary>
+Control sv_radio_opt_7.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.sv_radio_opt_8">
+	<summary>
+Control sv_radio_opt_8.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.sv_radio_opt_9">
+	<summary>
+Control sv_radio_opt_9.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.sv_radio_opt_10">
+	<summary>
+Control sv_radio_opt_10.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.btnVotarPregunta">
+	<summary>
+Control btnVotarPregunta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.aVerResultado">
+	<summary>
+Control aVerResultado.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.Label1">
+	<summary>
+Control Label1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.MostrarAgradecimiento">
+	<summary>
+Control MostrarAgradecimiento.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.MensajePersonalizado">
+	<summary>
+Control MensajePersonalizado.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.ContenidoFinal">
+	<summary>
+Control ContenidoFinal.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.RecursosColumna1">
+	<summary>
+Control RecursosColumna1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.RecursosColumna2">
+	<summary>
+Control RecursosColumna2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.RecursosColumna3">
+	<summary>
+Control RecursosColumna3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.LBtnCerrar">
+	<summary>
+Control LBtnCerrar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.LbtnValidarLogin">
+	<summary>
+Control LbtnValidarLogin.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Principal.hidMostrarLogin">
+	<summary>
+Control hidMostrarLogin.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Destacados.LblDestacadoTituloPrincipal">
+	<summary>
+Control LblDestacadoTituloPrincipal.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Destacados.lblSigno1">
+	<summary>
+Control lblSigno1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Destacados.hrefTitulo1">
+	<summary>
+Control hrefTitulo1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Destacados.lblSigno2">
+	<summary>
+Control lblSigno2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Destacados.hrefTitulo2">
+	<summary>
+Control hrefTitulo2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Destacados.lblSigno3">
+	<summary>
+Control lblSigno3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Destacados.hrefTitulo3">
+	<summary>
+Control hrefTitulo3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Destacados.lblSigno4">
+	<summary>
+Control lblSigno4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Destacados.hrefTitulo4">
+	<summary>
+Control hrefTitulo4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Destacados.lblSigno5">
+	<summary>
+Control lblSigno5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Destacados.hrefTitulo5">
+	<summary>
+Control hrefTitulo5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Destacados.tblResultadoArticulos">
+	<summary>
+Control tblResultadoArticulos.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Destacados.TagPaginacion">
+	<summary>
+Control TagPaginacion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Logged.ulColumna1">
+	<summary>
+ulColumna1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Logged.ulColumna2">
+	<summary>
+ulColumna2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Logged.ulColumna3">
+	<summary>
+ulColumna3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.AccountFail.NombreUsuario">
+	<summary>
+NombreUsuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.AccountFail.btnActivar">
+	<summary>
+btnActivar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.AccountFail.MensajeError">
+	<summary>
+MensajeError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.ListadoDescargas.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.ListadoDescargas.Tabla_Principal">
+	<summary>
+Control Tabla_Principal.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.ListadoDescargas.ScriptManager1">
+	<summary>
+Control ScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Lista_LoDestacado.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Lista_LoDestacado.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Lista_LoDestacado.tblResultado">
+	<summary>
+tblResultado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.frameCalendario.frmCalendario">
+	<summary>
+frmCalendario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.frameCalendario.myFecha">
+	<summary>
+myFecha control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.PruebasCorreo.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.PruebasCorreo.txtcontrasena">
+	<summary>
+txtcontrasena control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.PruebasCorreo.btnVer">
+	<summary>
+btnVer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.PruebasCorreo.lblError">
+	<summary>
+lblError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.PruebasCorreo.Tabla_Principal">
+	<summary>
+Tabla_Principal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.PruebasCorreo.txtServidorN">
+	<summary>
+txtServidorN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.PruebasCorreo.txtPuertoN">
+	<summary>
+txtPuertoN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.PruebasCorreo.txtCredenciaMailN">
+	<summary>
+txtCredenciaMailN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.PruebasCorreo.txtCrendetialPassN">
+	<summary>
+txtCrendetialPassN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.PruebasCorreo.txtDeN">
+	<summary>
+txtDeN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.PruebasCorreo.txtParaN">
+	<summary>
+txtParaN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.PruebasCorreo.txtAsuntoN">
+	<summary>
+txtAsuntoN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.PruebasCorreo.txtContenidoN">
+	<summary>
+txtContenidoN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.PruebasCorreo.BtnEnviar">
+	<summary>
+BtnEnviar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.PruebasCorreo.txtServidorOut">
+	<summary>
+txtServidorOut control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.PruebasCorreo.txtPuertoOut">
+	<summary>
+txtPuertoOut control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.PruebasCorreo.txtCredenciaMailOut">
+	<summary>
+txtCredenciaMailOut control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.PruebasCorreo.txtCrendetialPassOut">
+	<summary>
+txtCrendetialPassOut control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.PruebasCorreo.txtDeOut">
+	<summary>
+txtDeOut control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.PruebasCorreo.txtParaOut">
+	<summary>
+txtParaOut control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.PruebasCorreo.txtAsuntoOut">
+	<summary>
+txtAsuntoOut control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.PruebasCorreo.txtContenidoOut">
+	<summary>
+txtContenidoOut control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.PruebasCorreo.BtnEnviarOut">
+	<summary>
+BtnEnviarOut control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.PruebasCorreo.lblErrorEnvioMail">
+	<summary>
+lblErrorEnvioMail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.SubirArchivo.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.SubirArchivo.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.VerArticulo.TituloArticulo">
+	<summary>
+Control TituloArticulo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.VerArticulo.lblSigno1">
+	<summary>
+Control lblSigno1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.VerArticulo.ahref_Origen">
+	<summary>
+Control ahref_Origen.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.VerArticulo.lbl_NombreOrigen">
+	<summary>
+Control lbl_NombreOrigen.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.VerArticulo.lblSigno2">
+	<summary>
+Control lblSigno2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.VerArticulo.ahref_SubSeccion">
+	<summary>
+Control ahref_SubSeccion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.VerArticulo.lbl_NombreSubSeccion">
+	<summary>
+Control lbl_NombreSubSeccion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.VerArticulo.lblNombre">
+	<summary>
+Control lblNombre.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.VerArticulo.ImgAutor">
+	<summary>
+Control ImgAutor.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.VerArticulo.NombreAutorHref">
+	<summary>
+Control NombreAutorHref.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.VerArticulo.LblFecha">
+	<summary>
+Control LblFecha.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.VerArticulo.divRating">
+	<summary>
+Control divRating.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.VerArticulo.pEtiquetas">
+	<summary>
+Control pEtiquetas.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.VerArticulo.imagenDescargaDoc">
+	<summary>
+Control imagenDescargaDoc.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.VerArticulo.imagenDescargaPdf">
+	<summary>
+Control imagenDescargaPdf.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.VerArticulo.imagenDescargaPpt">
+	<summary>
+Control imagenDescargaPpt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.VerArticulo.imagenDescargaOtro">
+	<summary>
+Control imagenDescargaOtro.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.VerArticulo.hdnFile">
+	<summary>
+Control hdnFile.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.VerArticulo.ahRef_VistaPrevia">
+	<summary>
+Control ahRef_VistaPrevia.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.VerArticulo.img_VistaPrevia">
+	<summary>
+Control img_VistaPrevia.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.VerArticulo.LblResena">
+	<summary>
+Control LblResena.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.VerArticulo.DivArticulo">
+	<summary>
+Control DivArticulo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.VerArticulo.Iframe_Articulo">
+	<summary>
+Control Iframe_Articulo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.VerArticulo.DivContenido">
+	<summary>
+Control DivContenido.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.VerArticulo.Lst_delAutor">
+	<summary>
+Control Lst_delAutor.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.VerArticulo.hidAutor">
+	<summary>
+Control hidAutor.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Contactenos.cnt_contentDespuesdeGuardar">
+	<summary>
+cnt_contentDespuesdeGuardar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Contactenos.cnt_contentAntesdeGuardar">
+	<summary>
+cnt_contentAntesdeGuardar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Contactenos.Email">
+	<summary>
+Email control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Contactenos.TextoComentario">
+	<summary>
+TextoComentario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Contactenos.imgCaptchaReg">
+	<summary>
+imgCaptchaReg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Contactenos.txtImagenCaptchaReg">
+	<summary>
+txtImagenCaptchaReg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Contactenos.LblImagenCaptchaRerPersonal">
+	<summary>
+LblImagenCaptchaRerPersonal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Contactenos.btnEnviarComentario">
+	<summary>
+btnEnviarComentario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Cursos.tblResultado">
+	<summary>
+tblResultado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Secciones.LblSeccionTituloPrincipal">
+	<summary>
+Control LblSeccionTituloPrincipal.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Secciones.lblSigno1">
+	<summary>
+Control lblSigno1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Secciones.hrefTitulo1">
+	<summary>
+Control hrefTitulo1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Secciones.lblSigno2">
+	<summary>
+Control lblSigno2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Secciones.hrefTitulo2">
+	<summary>
+Control hrefTitulo2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Secciones.lblSigno3">
+	<summary>
+Control lblSigno3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Secciones.hrefTitulo3">
+	<summary>
+Control hrefTitulo3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Secciones.lblSigno4">
+	<summary>
+Control lblSigno4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Secciones.hrefTitulo4">
+	<summary>
+Control hrefTitulo4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Secciones.lblSigno5">
+	<summary>
+Control lblSigno5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Secciones.hrefTitulo5">
+	<summary>
+Control hrefTitulo5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Secciones.LblSeccionTitulo">
+	<summary>
+Control LblSeccionTitulo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Secciones.LblDescripcionSeccion">
+	<summary>
+Control LblDescripcionSeccion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Secciones.tblResultadoArticulosSubSeccion">
+	<summary>
+Control tblResultadoArticulosSubSeccion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Secciones.tblResultadoArticulos">
+	<summary>
+Control tblResultadoArticulos.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Secciones.TagPaginacion">
+	<summary>
+Control TagPaginacion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Ultimos.LblUltimosTituloPrincipal">
+	<summary>
+Control LblUltimosTituloPrincipal.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Ultimos.lblSigno1">
+	<summary>
+Control lblSigno1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Ultimos.hrefTitulo1">
+	<summary>
+Control hrefTitulo1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Ultimos.lblSigno2">
+	<summary>
+Control lblSigno2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Ultimos.hrefTitulo2">
+	<summary>
+Control hrefTitulo2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Ultimos.lblSigno3">
+	<summary>
+Control lblSigno3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Ultimos.hrefTitulo3">
+	<summary>
+Control hrefTitulo3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Ultimos.lblSigno4">
+	<summary>
+Control lblSigno4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Ultimos.hrefTitulo4">
+	<summary>
+Control hrefTitulo4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Ultimos.lblSigno5">
+	<summary>
+Control lblSigno5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Ultimos.hrefTitulo5">
+	<summary>
+Control hrefTitulo5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Ultimos.tblResultadoArticulos">
+	<summary>
+Control tblResultadoArticulos.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.Ultimos.TagPaginacion">
+	<summary>
+Control TagPaginacion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.UploadFile.cnt_contentDespuesdeGuardar">
+	<summary>
+Control cnt_contentDespuesdeGuardar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.UploadFile.cnt_contentAntesdeGuardar">
+	<summary>
+Control cnt_contentAntesdeGuardar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.UploadFile.Titulo">
+	<summary>
+Control Titulo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.UploadFile.Resumen">
+	<summary>
+Control Resumen.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.UploadFile.TextoColaboracion">
+	<summary>
+Control TextoColaboracion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.UploadFile.Publicacion">
+	<summary>
+Control Publicacion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.UploadFile.File_U">
+	<summary>
+Control File_U.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.UploadFile.imgCaptchaReg">
+	<summary>
+Control imgCaptchaReg.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.UploadFile.txtImagenCaptchaReg">
+	<summary>
+Control txtImagenCaptchaReg.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.UploadFile.LblImagenCaptchaRerPersonal">
+	<summary>
+Control LblImagenCaptchaRerPersonal.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.UploadFile.btnEnviarColaboracion">
+	<summary>
+Control btnEnviarColaboracion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.UploadFile.hidEstaRegistrado">
+	<summary>
+Control hidEstaRegistrado.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.RegisterEdit.lblPublicaciones">
+	<summary>
+lblPublicaciones control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.RegisterEdit.hrefVerPublicaciones">
+	<summary>
+hrefVerPublicaciones control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.RegisterEdit.lblNombreRegistro">
+	<summary>
+lblNombreRegistro control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.RegisterEdit.cnt_contentGuardar">
+	<summary>
+cnt_contentGuardar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.RegisterEdit.cnt_contentEditar">
+	<summary>
+cnt_contentEditar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.RegisterEdit.FirstName">
+	<summary>
+FirstName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.RegisterEdit.LastName">
+	<summary>
+LastName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.RegisterEdit.Clave">
+	<summary>
+Clave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.RegisterEdit.Email">
+	<summary>
+Email control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.RegisterEdit.Email2">
+	<summary>
+Email2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.RegisterEdit.strFechaNAC">
+	<summary>
+strFechaNAC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.RegisterEdit.ImgstrFechaNAC">
+	<summary>
+ImgstrFechaNAC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.RegisterEdit.DDLSexo">
+	<summary>
+DDLSexo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.RegisterEdit.DDLEstadoCivil">
+	<summary>
+DDLEstadoCivil control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.RegisterEdit.DDLTTrabajo">
+	<summary>
+DDLTTrabajo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.RegisterEdit.DDLIdioma">
+	<summary>
+DDLIdioma control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.RegisterEdit.Telefono">
+	<summary>
+Telefono control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.RegisterEdit.OtherInfo">
+	<summary>
+OtherInfo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.RegisterEdit.Country">
+	<summary>
+Country control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.RegisterEdit.State">
+	<summary>
+State control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.RegisterEdit.City">
+	<summary>
+City control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.RegisterEdit.ShowInfo">
+	<summary>
+ShowInfo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.RegisterEdit.ReceiveEmails">
+	<summary>
+ReceiveEmails control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.RegisterEdit.btnRegistro">
+	<summary>
+btnRegistro control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Search.LblPalabraBuscar">
+	<summary>
+LblPalabraBuscar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Search.tblResultado">
+	<summary>
+tblResultado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Search.TagPaginacion">
+	<summary>
+TagPaginacion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Search.LblMensaje">
+	<summary>
+LblMensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Tag.LblEtiquetaTitulo">
+	<summary>
+LblEtiquetaTitulo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Tag.tblResultado">
+	<summary>
+tblResultado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.Tag.TagPaginacion">
+	<summary>
+TagPaginacion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:PLWeb4_7.article.form1">
+	<summary>
+control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.ResultadoEncuesta.lblResultado">
+	<summary>
+Control lblResultado.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PLWeb4_7.ResultadoEncuesta.ScriptManager1">
+	<summary>
+Control ScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+</members>
+</doc>

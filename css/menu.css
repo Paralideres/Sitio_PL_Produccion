@@ -1,0 +1,308 @@
+﻿*
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-family: Century Gothic, Verdana, Geneva, sans-serif;
+}
+
+body
+{
+	font-size: 10pt;
+	color: #888;
+	height: 100%;
+	background: #f1f1f1; /*background: black;*/
+}
+
+#divContainer
+{
+	text-align: center;
+	width: 97%;
+	z-index: 2;
+	margin-top: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #ffffff;
+	padding: 8px;
+}
+
+#divHeader
+{
+	background-color: inherit;
+	width: 100%;
+}
+
+#divHeader #divHeaderTop
+{
+	background: #E9E9E9 url('../images/topbg.png') repeat-y right top;
+	width: 100%;
+	height: 100px;
+	margin-bottom: 1px;
+}
+
+#divHeader #divHeaderTop #divHeaderLogo
+{
+	position: relative;
+	float: left;
+	top: 10px;
+	left: 15px;
+}
+
+#divHeader #divHeaderTop #divHeaderExtraInfo
+{
+	position: relative;
+	float: right;
+	top: 5px;
+	padding-right: 5px;
+	z-index: 20;
+}
+
+.infoUser
+{
+	text-align: left; /*color: White;*/
+	font-family: Century Gothic, Verdana, Geneva, sans-serif;
+	color: #333;
+	font-size: 12px;
+	font-weight: normal;
+	margin: 5px 0px 0px 0px;
+	width: 100%;
+}
+
+.infoUser td span
+{
+	padding-left: 2px;
+}
+
+.tdLnkOut
+{
+	padding-top: 15px;
+	text-align: right;
+}
+
+.tdLnkOut a, .tdLnkOut a:hover
+{
+	text-align: left;
+	color: #09C;
+	text-decoration: none;
+}
+a:focus
+{
+	outline: none;
+}
+
+
+#divHeader #divHeaderTop #divHeaderContent
+{
+	text-align: left;
+	position: relative;
+	top: 20px;
+	padding: 0em 2.0em 1.3em 2em;
+	z-index: 3;
+	display: none;
+}
+
+#divHeader #divHeaderTop #divHeaderContent h1
+{
+	font-weight: normal;
+	color: #007057;
+	font-size: 2.5em;
+}
+
+#lblVersion
+{
+	font-size: 19px;
+	font-weight: normal;
+	color: #007057;
+}
+
+#divHeader #divHeaderTop #divHeaderContent h2
+{
+	font-size: 1.0em;
+	font-weight: normal;
+	color: #D88100;
+}
+
+#divHeader #divHeaderOverBottom
+{
+	background: #007057;
+	width: 100%;
+	height: 3px;
+	overflow: hidden;
+	margin-bottom: 0px;
+}
+
+#divHeader #divHeaderBottom
+{
+	background: #ffffff url(../images/borderbottom.gif) repeat-x top left;
+	width: 100%;
+	height: 14px;
+	margin-bottom: 1px;
+}
+
+#divBody
+{
+	background-color: inherit;
+	width: 100%;
+	height: 460px;
+	margin-bottom: 2px;
+	border: 1px solid white;
+}
+
+#divBodyLeft
+{
+	position: relative;
+	float: left;
+	background-color: inherit;
+	width: 170px;
+	height: 460px;
+	font-size: 86%;
+	color: #888;
+	text-align: left;
+}
+
+#lblLinks
+{
+	width: 155px;
+	overflow: auto;
+}
+
+#lblLinks::-webkit-scrollbar
+{
+	height: 10px;
+	width: 10px;
+	background: white;
+}
+#lblLinks::-webkit-scrollbar-thumb
+{
+	background: #dcdcdc;
+	-webkit-border-radius: 1ex;
+	-webkit-box-shadow: 0px 1px 2px white;
+}
+#lblLinks::-webkit-scrollbar-corner
+{
+	background: white;
+}
+
+#divBody #divBodyRight
+{
+	position: relative;
+	background-color: inherit;
+	height: 460px;
+	margin-left: 170px;
+	border: 1px solid white;
+}
+
+#divBody #divBodyLeft h2
+{
+	font-size: 20px;
+	color: #333;
+	font-weight: normal;
+	font-size: 1.8em;
+	margin: 0 0 2px 0;
+	clear: both;
+}
+#divBody #divBodyLeft h2 em
+{
+	color: #D88100;
+	font-style: normal;
+}
+
+/*Menu Section*/
+/*Menu Headers Section*/
+#lblLinks
+{
+	padding-top:13px;
+}
+
+#lblLinks h3
+{
+	text-align:left;
+	height:25px;
+	color: #333;
+	font-weight: normal;
+	font-size: 1.2em;	
+	padding: 0 0 0 5px;
+	margin-top:2px;
+	line-height: 26px;
+}
+
+#lblLinks h3 span
+{
+	display:none;
+}
+
+#lblLinks h3 a
+{
+	display:block;
+	color: #333;
+}
+
+/*Menu Links Section*/
+#lblLinks div
+{
+	border:0px;
+}
+
+#lblLinks div li
+{
+	list-style-type: none;
+	padding: 0 0 0 0px;
+	line-height: 28px;
+	letter-spacing: 0.1em;
+}
+
+#lblLinks div a
+{
+	text-decoration: none;
+	color: #333;
+	font-size: 10px;
+	font-weight:normal;
+	display:block;
+	padding: 0 0 0 10px;
+}
+
+#lblLinks div a:hover
+{
+	background-color: #F5F5F5;
+	color: #D88100;
+}
+
+#ifContenido
+{
+	border: 1px solid white;
+}
+
+#divFooter
+{
+	background: #fff url('../images/borderfooter.gif') repeat-x 0px 0px;
+	background-color: inherit;
+	font-size: 76%;
+	width: 100%;
+	height: 20px;
+}
+
+#divFooter #divFooterLeft
+{
+	position: relative;
+	float: left;
+	left: 5px;
+	top: 6px;
+}
+
+#divFooter #divFooterRight
+{
+	position: relative;
+	float: right;
+	right: 5px;
+	top: 6px;
+}
+
+#divFooter #divFooterRight a
+{
+	color: #11A0CF;
+	text-decoration: none;
+}
+#divFooter #divFooterRight a:hover
+{
+	background-color: #f4f4f4;
+}
