@@ -65,7 +65,7 @@
 <!-- Starts Author's Widget box -->
 <div id="content_stream_box" class="clearfix">
   <div class="cnt_header">
-  <h1>Redes Sociales Git</h1>
+  <h1>Redes Sociales</h1>
   </div>
   <div class="cnt_option_selector">
     <a class="cnt_more" href="#"></a>
