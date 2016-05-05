@@ -77,22 +77,33 @@
         <div class="cnt_stream">
           <script src="https://apis.google.com/js/platform.js"></script>
           <div class="g-ytsubscribe" data-channel="ParaLideres" data-layout="full" data-count="default"></div>
-          <iframe scrolling="no" marginheight="0" frameborder="0" width="295" src="http://ytchannelembed.com/gallery.php?vids=2&amp;user=ParaLideres&amp;row=2&amp;width=140&amp;hd=1&amp;margin_right=15&amp;desc=0&amp;desc_color=9E9E9E&amp;title=60&amp;title_color=000000&amp;views=1&amp;likes=1&amp;dislikes=0&amp;fav=0&amp;playlist=" style="height: 170px;"></iframe>
+          <iframe
+            allowfullscreen
+            frameborder="0"
+            height="170"
+            src="https://www.youtube.com/embed/videoseries?list=PLjcT2vLdd9Q3qdPFhMAi7F6Cos0TVpWlm"
+            width="295"/>
+          </iframe>
 
-
-<div class='likeboxwrap'>
-<iframe src="//www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/paralideres?fref=ts;width=260&amp;height=260&amp;show_faces=true&amp;colorscheme=light&amp;stream=false&amp;border_color&amp;header=false&amp;appId=137352931037" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:220px;" allowTransparency="true"></iframe>
-</div>
-
-<style type='text/css'>
-div.likeboxwrap {
-width:288px; /* Quitar 2px al ancho del gadget */
-height:210px; /* Quitar 25px al alto del gadget */
-background-color:  ; /* Color de fondo del gadget */
-overflow:hidden;
-}
-div.likeboxwrap iframe {margin:-1px}
-</style></iframe>
+          <div class='likeboxwrap'>
+            <iframe
+              src="//www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/paralideres?fref=ts;width=260&amp;height=260&amp;show_faces=true&amp;colorscheme=light&amp;stream=false&amp;border_color&amp;header=false&amp;appId=137352931037"
+              scrolling="no"
+              frameborder="0"
+              style="border:none; overflow:hidden; width:300px; height:220px;"
+              allowTransparency="true">
+            </iframe>
+          </div>
+          <style type='text/css'>
+            div.likeboxwrap {
+              width:288px; /* Quitar 2px al ancho del gadget */
+              height:210px; /* Quitar 25px al alto del gadget */
+              margin-top: 10px;
+              background-color: transparent; /* Color de fondo del gadget */
+              overflow: hidden;
+            }
+            div.likeboxwrap iframe { margin:-1px; }
+          </style>
 
         </div>
       </li>
