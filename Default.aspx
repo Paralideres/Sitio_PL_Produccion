@@ -84,7 +84,8 @@
             src="https://www.youtube.com/embed/videoseries?list=PLjcT2vLdd9Q3qdPFhMAi7F6Cos0TVpWlm"
             width="295"/>
           </iframe>
-
+        </div>
+        <div class="cnt_stream">
           <div class='likeboxwrap'>
             <iframe
               src="//www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/paralideres?fref=ts;width=260&amp;height=260&amp;show_faces=true&amp;colorscheme=light&amp;stream=false&amp;border_color&amp;header=false&amp;appId=137352931037"
@@ -104,7 +105,6 @@
             }
             div.likeboxwrap iframe { margin:-1px; }
           </style>
-
         </div>
       </li>
       <!-- end stream -->
