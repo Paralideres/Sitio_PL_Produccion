@@ -1241,6 +1241,10 @@ div.r_rating a {
   width: 200px;
 }
 
+#extra-content {
+  background-color: #FFFFFF;
+}
+
 /* ParaLideres.org v. 4.0.0
    news_stream.css
    style
@@ -1453,7 +1457,7 @@ a.cnt_more {
 }
 
 .cnt_stream {
-  padding: 10px 30px 10px 0px;
+  padding: 10px 30px 30px 0px;
   margin-left: 30px;
   border-bottom: 1px solid #f4f4f4;
 }
