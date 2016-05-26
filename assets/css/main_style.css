@@ -1383,7 +1383,9 @@ a.nws_more {
 }
 
 #content_stream_box a {
-  color: color:#0178A3;
+  background-color: white;
+  display: inline-table;
+  overflow: hidden;
 }
 
 .cnt_header {
